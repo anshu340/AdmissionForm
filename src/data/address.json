@@ -1,0 +1,4586 @@
+[
+  {
+    "ZoneID": 1,
+    "DistrictID": 1,
+    "VdcID": 1,
+    "FullLocationName": "Shadanand-Bhojpur-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 1,
+    "VdcID": 2,
+    "FullLocationName": "Bhojpur-Bhojpur-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 1,
+    "VdcID": 3,
+    "FullLocationName": "Hatuwagadhi-Bhojpur-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 1,
+    "VdcID": 4,
+    "FullLocationName": "Ramprasad Rai-Bhojpur-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 1,
+    "VdcID": 5,
+    "FullLocationName": "Aamchok-Bhojpur-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 1,
+    "VdcID": 6,
+    "FullLocationName": "Tyamke Maiyum-Bhojpur-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 1,
+    "VdcID": 7,
+    "FullLocationName": "Arun-Bhojpur-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 1,
+    "VdcID": 8,
+    "FullLocationName": "Pauwadungma-Bhojpur-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 1,
+    "VdcID": 9,
+    "FullLocationName": "Salpasilichho-Bhojpur-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 2,
+    "VdcID": 10,
+    "FullLocationName": "Dhankuta-Dhankuta-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 2,
+    "VdcID": 11,
+    "FullLocationName": "Mahalaxmi-Dhankuta-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 2,
+    "VdcID": 12,
+    "FullLocationName": "Pakhribas-Dhankuta-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 2,
+    "VdcID": 13,
+    "FullLocationName": "Sangurigadhi-Dhankuta-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 2,
+    "VdcID": 14,
+    "FullLocationName": "Chaubise-Dhankuta-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 2,
+    "VdcID": 15,
+    "FullLocationName": "Khalsa Chhintang Sahidbhumi-Dhankuta-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 2,
+    "VdcID": 16,
+    "FullLocationName": "Chhathar Jorpati-Dhankuta-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 3,
+    "VdcID": 17,
+    "FullLocationName": "Suryodaya-Ilam-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 3,
+    "VdcID": 18,
+    "FullLocationName": "Ilam-Ilam-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 3,
+    "VdcID": 19,
+    "FullLocationName": "Deumai-Ilam-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 3,
+    "VdcID": 20,
+    "FullLocationName": "Mai-Ilam-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 3,
+    "VdcID": 21,
+    "FullLocationName": "Phakphokthum-Ilam-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 3,
+    "VdcID": 22,
+    "FullLocationName": "Mai Jogmai-Ilam-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 3,
+    "VdcID": 23,
+    "FullLocationName": "Chulachuli-Ilam-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 3,
+    "VdcID": 24,
+    "FullLocationName": "Rong-Ilam-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 3,
+    "VdcID": 25,
+    "FullLocationName": "Mangsebung-Ilam-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 3,
+    "VdcID": 26,
+    "FullLocationName": "Sandakpur-Ilam-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 4,
+    "VdcID": 27,
+    "FullLocationName": "Mechinagar-Jhapa-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 4,
+    "VdcID": 28,
+    "FullLocationName": "Birtamod-Jhapa-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 4,
+    "VdcID": 29,
+    "FullLocationName": "Damak-Jhapa-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 4,
+    "VdcID": 30,
+    "FullLocationName": "Bhadrapur-Jhapa-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 4,
+    "VdcID": 31,
+    "FullLocationName": "Shivasatakshi-Jhapa-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 4,
+    "VdcID": 32,
+    "FullLocationName": "Arjundhara-Jhapa-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 4,
+    "VdcID": 33,
+    "FullLocationName": "Gauradaha-Jhapa-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 4,
+    "VdcID": 34,
+    "FullLocationName": "Kankai-Jhapa-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 4,
+    "VdcID": 35,
+    "FullLocationName": "Kamal-Jhapa-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 4,
+    "VdcID": 36,
+    "FullLocationName": "Buddha Shanti-Jhapa-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 4,
+    "VdcID": 37,
+    "FullLocationName": "Kachankawal-Jhapa-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 4,
+    "VdcID": 38,
+    "FullLocationName": "Jhapa-Jhapa-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 4,
+    "VdcID": 39,
+    "FullLocationName": "Barhadashi-Jhapa-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 4,
+    "VdcID": 40,
+    "FullLocationName": "Gaurigunj-Jhapa-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 4,
+    "VdcID": 41,
+    "FullLocationName": "Haldibari-Jhapa-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 5,
+    "VdcID": 42,
+    "FullLocationName": "Diktel–Rupakot–Majuwagadhi-Khotang-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 5,
+    "VdcID": 43,
+    "FullLocationName": "Halesi Tuwachung-Khotang-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 5,
+    "VdcID": 44,
+    "FullLocationName": "Khotehang-Khotang-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 5,
+    "VdcID": 45,
+    "FullLocationName": "Diprung-Khotang-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 5,
+    "VdcID": 46,
+    "FullLocationName": "Aiselukharka-Khotang-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 5,
+    "VdcID": 47,
+    "FullLocationName": "Jantedhunga-Khotang-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 5,
+    "VdcID": 48,
+    "FullLocationName": "Kepilasgadhi-Khotang-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 5,
+    "VdcID": 49,
+    "FullLocationName": "Barahpokhari-Khotang-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 5,
+    "VdcID": 50,
+    "FullLocationName": "Lamidanda-Khotang-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 5,
+    "VdcID": 51,
+    "FullLocationName": "Sakela-Khotang-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 6,
+    "VdcID": 52,
+    "FullLocationName": "Biratnagar-Morang-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 6,
+    "VdcID": 53,
+    "FullLocationName": "Sundar Haraincha-Morang-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 6,
+    "VdcID": 54,
+    "FullLocationName": "Belbari-Morang-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 6,
+    "VdcID": 55,
+    "FullLocationName": "Pathari-Shanischare-Morang-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 6,
+    "VdcID": 56,
+    "FullLocationName": "Ratuwamai-Morang-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 6,
+    "VdcID": 57,
+    "FullLocationName": "Urlabari-Morang-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 6,
+    "VdcID": 58,
+    "FullLocationName": "Rangeli-Morang-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 6,
+    "VdcID": 59,
+    "FullLocationName": "Sunawarshi-Morang-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 6,
+    "VdcID": 60,
+    "FullLocationName": "Letang Bhogateni-Morang-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 6,
+    "VdcID": 61,
+    "FullLocationName": "Jahada-Morang-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 6,
+    "VdcID": 62,
+    "FullLocationName": "Budi Ganga-Morang-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 6,
+    "VdcID": 63,
+    "FullLocationName": "Katahari-Morang-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 6,
+    "VdcID": 64,
+    "FullLocationName": "Dhanpalthan-Morang-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 6,
+    "VdcID": 65,
+    "FullLocationName": "Kanepokhari-Morang-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 6,
+    "VdcID": 66,
+    "FullLocationName": "Gramthan-Morang-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 6,
+    "VdcID": 67,
+    "FullLocationName": "Kerabari-Morang-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 6,
+    "VdcID": 68,
+    "FullLocationName": "Miklajung-Morang-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 7,
+    "VdcID": 69,
+    "FullLocationName": "Siddhicharan-Okhaldhunga-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 7,
+    "VdcID": 70,
+    "FullLocationName": "Manebhanjyang-Okhaldhunga-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 7,
+    "VdcID": 71,
+    "FullLocationName": "Champadevi-Okhaldhunga-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 7,
+    "VdcID": 72,
+    "FullLocationName": "Sunkoshi-Okhaldhunga-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 7,
+    "VdcID": 73,
+    "FullLocationName": "Molung-Okhaldhunga-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 7,
+    "VdcID": 74,
+    "FullLocationName": "Chisankhugadhi-Okhaldhunga-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 7,
+    "VdcID": 75,
+    "FullLocationName": "Khiji Demba-Okhaldhunga-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 7,
+    "VdcID": 76,
+    "FullLocationName": "Likhu-Okhaldhunga-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 8,
+    "VdcID": 77,
+    "FullLocationName": "Phidim-Panchthar-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 8,
+    "VdcID": 78,
+    "FullLocationName": "Miklajung-Panchthar-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 8,
+    "VdcID": 79,
+    "FullLocationName": "Phalgunanda-Panchthar-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 8,
+    "VdcID": 80,
+    "FullLocationName": "Hilihang-Panchthar-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 8,
+    "VdcID": 81,
+    "FullLocationName": "Phalelung-Panchthar-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 8,
+    "VdcID": 82,
+    "FullLocationName": "Yangwarak-Panchthar-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 8,
+    "VdcID": 83,
+    "FullLocationName": "Kummayak-Panchthar-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 8,
+    "VdcID": 84,
+    "FullLocationName": "Tumbewa-Panchthar-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 9,
+    "VdcID": 85,
+    "FullLocationName": "Khandbari-Sankhuwasabha-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 9,
+    "VdcID": 86,
+    "FullLocationName": "Chainpur-Sankhuwasabha-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 9,
+    "VdcID": 87,
+    "FullLocationName": "Dharmadevi-Sankhuwasabha-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 9,
+    "VdcID": 88,
+    "FullLocationName": "Panchkhapan-Sankhuwasabha-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 9,
+    "VdcID": 89,
+    "FullLocationName": "Madi-Sankhuwasabha-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 9,
+    "VdcID": 90,
+    "FullLocationName": "Makalu-Sankhuwasabha-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 9,
+    "VdcID": 91,
+    "FullLocationName": "Silichong-Sankhuwasabha-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 9,
+    "VdcID": 92,
+    "FullLocationName": "Sabhapokhari-Sankhuwasabha-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 9,
+    "VdcID": 93,
+    "FullLocationName": "Chichila-Sankhuwasabha-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 9,
+    "VdcID": 94,
+    "FullLocationName": "Bhot Khola-Sankhuwasabha-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 10,
+    "VdcID": 95,
+    "FullLocationName": "Solu Dudhkunda-Solukhumbu-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 10,
+    "VdcID": 96,
+    "FullLocationName": "Dudhakaushika-Solukhumbu-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 10,
+    "VdcID": 97,
+    "FullLocationName": "Necha Salyan-Solukhumbu-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 10,
+    "VdcID": 98,
+    "FullLocationName": "Dudhkoshi-Solukhumbu-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 10,
+    "VdcID": 99,
+    "FullLocationName": "Maha Kulung-Solukhumbu-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 10,
+    "VdcID": 100,
+    "FullLocationName": "Sotang-Solukhumbu-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 10,
+    "VdcID": 101,
+    "FullLocationName": "Khumbu Pasang Lhamu-Solukhumbu-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 10,
+    "VdcID": 102,
+    "FullLocationName": "Likhu Pike-Solukhumbu-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 11,
+    "VdcID": 103,
+    "FullLocationName": "Itahari-Sunsari-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 11,
+    "VdcID": 104,
+    "FullLocationName": "Dharan-Sunsari-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 11,
+    "VdcID": 105,
+    "FullLocationName": "Barahachhetra-Sunsari-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 11,
+    "VdcID": 106,
+    "FullLocationName": "Inaruwa-Sunsari-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 11,
+    "VdcID": 107,
+    "FullLocationName": "Duhabi-Sunsari-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 11,
+    "VdcID": 108,
+    "FullLocationName": "Ramdhuni-Sunsari-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 11,
+    "VdcID": 109,
+    "FullLocationName": "Koshi-Sunsari-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 11,
+    "VdcID": 110,
+    "FullLocationName": "Harinagara-Sunsari-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 11,
+    "VdcID": 111,
+    "FullLocationName": "Bhokraha-Sunsari-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 11,
+    "VdcID": 112,
+    "FullLocationName": "Dewanganj-Sunsari-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 11,
+    "VdcID": 113,
+    "FullLocationName": "Gadhi-Sunsari-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 11,
+    "VdcID": 114,
+    "FullLocationName": "Barju-Sunsari-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 12,
+    "VdcID": 115,
+    "FullLocationName": "Taplejung(Phungling)-Taplejung-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 12,
+    "VdcID": 116,
+    "FullLocationName": "Sirijangha-Taplejung-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 12,
+    "VdcID": 117,
+    "FullLocationName": "Aathrai Triveni-Taplejung-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 12,
+    "VdcID": 118,
+    "FullLocationName": "Pathibhara Yangwarak-Taplejung-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 12,
+    "VdcID": 119,
+    "FullLocationName": "Meringden-Taplejung-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 12,
+    "VdcID": 120,
+    "FullLocationName": "Sidingwa-Taplejung-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 12,
+    "VdcID": 121,
+    "FullLocationName": "Phaktanglung-Taplejung-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 12,
+    "VdcID": 122,
+    "FullLocationName": "Maiwa Khola-Taplejung-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 12,
+    "VdcID": 123,
+    "FullLocationName": "Mikwa Khola-Taplejung-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 13,
+    "VdcID": 124,
+    "FullLocationName": "Myanglung-Terhathum-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 13,
+    "VdcID": 125,
+    "FullLocationName": "Laligurans-Terhathum-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 13,
+    "VdcID": 126,
+    "FullLocationName": "Aathrai-Terhathum-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 13,
+    "VdcID": 127,
+    "FullLocationName": "Phedap-Terhathum-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 13,
+    "VdcID": 128,
+    "FullLocationName": "Chhathar-Terhathum-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 13,
+    "VdcID": 129,
+    "FullLocationName": "Menchayayem-Terhathum-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 14,
+    "VdcID": 130,
+    "FullLocationName": "Triyuga-Udayapur-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 14,
+    "VdcID": 131,
+    "FullLocationName": "Katari-Udayapur-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 14,
+    "VdcID": 132,
+    "FullLocationName": "Chaudandigadhi-Udayapur-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 14,
+    "VdcID": 133,
+    "FullLocationName": "Belaka-Udayapur-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 14,
+    "VdcID": 134,
+    "FullLocationName": "Udayapurgadhi-Udayapur-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 14,
+    "VdcID": 135,
+    "FullLocationName": "Rautamai-Udayapur-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 14,
+    "VdcID": 136,
+    "FullLocationName": "Tapli-Udayapur-Koshi"
+  },
+  {
+    "ZoneID": 1,
+    "DistrictID": 14,
+    "VdcID": 137,
+    "FullLocationName": "Limchungbung-Udayapur-Koshi"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 15,
+    "VdcID": 138,
+    "FullLocationName": "Rajbiraj-Saptari-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 15,
+    "VdcID": 139,
+    "FullLocationName": "Hanumannagar Kankalini-Saptari-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 15,
+    "VdcID": 140,
+    "FullLocationName": "Khadak-Saptari-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 15,
+    "VdcID": 141,
+    "FullLocationName": "Dakneshwari-Saptari-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 15,
+    "VdcID": 142,
+    "FullLocationName": "Surunga-Saptari-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 15,
+    "VdcID": 143,
+    "FullLocationName": "Bodebarsain-Saptari-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 15,
+    "VdcID": 144,
+    "FullLocationName": "Shambhunath-Saptari-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 15,
+    "VdcID": 145,
+    "FullLocationName": "Kanchanrup-Saptari-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 15,
+    "VdcID": 146,
+    "FullLocationName": "Saptakoshi-Saptari-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 15,
+    "VdcID": 147,
+    "FullLocationName": "Tilathi Koiladi-Saptari-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 15,
+    "VdcID": 148,
+    "FullLocationName": "Belhi Chapena-Saptari-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 15,
+    "VdcID": 149,
+    "FullLocationName": "Chhinnamasta-Saptari-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 15,
+    "VdcID": 150,
+    "FullLocationName": "Mahadeva-Saptari-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 15,
+    "VdcID": 151,
+    "FullLocationName": "Aagnisaira Krishnasawaran-Saptari-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 15,
+    "VdcID": 152,
+    "FullLocationName": "Rupani-Saptari-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 15,
+    "VdcID": 153,
+    "FullLocationName": "Balan-Bihul-Saptari-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 15,
+    "VdcID": 154,
+    "FullLocationName": "Bishnupur-Saptari-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 15,
+    "VdcID": 155,
+    "FullLocationName": "Tirhut-Saptari-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 16,
+    "VdcID": 156,
+    "FullLocationName": "Lahan-Siraha-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 16,
+    "VdcID": 157,
+    "FullLocationName": "Siraha-Siraha-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 16,
+    "VdcID": 158,
+    "FullLocationName": "Golbazar-Siraha-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 16,
+    "VdcID": 159,
+    "FullLocationName": "Mirchaiya-Siraha-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 16,
+    "VdcID": 160,
+    "FullLocationName": "Kalyanpur-Siraha-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 16,
+    "VdcID": 161,
+    "FullLocationName": "Dhangadimai-Siraha-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 16,
+    "VdcID": 162,
+    "FullLocationName": "Sukhipur-Siraha-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 16,
+    "VdcID": 163,
+    "FullLocationName": "Karjanha-Siraha-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 16,
+    "VdcID": 164,
+    "FullLocationName": "Laksmipur Patari-Siraha-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 16,
+    "VdcID": 165,
+    "FullLocationName": "Bariyarpatti-Siraha-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 16,
+    "VdcID": 166,
+    "FullLocationName": "Aaurahi-Siraha-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 16,
+    "VdcID": 167,
+    "FullLocationName": "Arnama-Siraha-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 16,
+    "VdcID": 168,
+    "FullLocationName": "Bhagawanpur-Siraha-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 16,
+    "VdcID": 169,
+    "FullLocationName": "Naraha-Siraha-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 16,
+    "VdcID": 170,
+    "FullLocationName": "Nawarajpur-Siraha-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 16,
+    "VdcID": 171,
+    "FullLocationName": "Sakhuwanankarkatti-Siraha-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 16,
+    "VdcID": 172,
+    "FullLocationName": "Bishnupur-Siraha-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 17,
+    "VdcID": 173,
+    "FullLocationName": "Janakpur-Dhanusa-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 17,
+    "VdcID": 174,
+    "FullLocationName": "Sabaila-Dhanusa-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 17,
+    "VdcID": 175,
+    "FullLocationName": "Dhanushadham-Dhanusa-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 17,
+    "VdcID": 176,
+    "FullLocationName": "Mithila-Dhanusa-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 17,
+    "VdcID": 177,
+    "FullLocationName": "Shahidnagar-Dhanusa-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 17,
+    "VdcID": 178,
+    "FullLocationName": "Kshireshwarnath-Dhanusa-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 17,
+    "VdcID": 179,
+    "FullLocationName": "Hansapur-Dhanusa-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 17,
+    "VdcID": 180,
+    "FullLocationName": "Kamala-Dhanusa-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 17,
+    "VdcID": 181,
+    "FullLocationName": "Ganeshman Charnath-Dhanusa-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 17,
+    "VdcID": 182,
+    "FullLocationName": "Nagarain-Dhanusa-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 17,
+    "VdcID": 183,
+    "FullLocationName": "Mithila Bihari-Dhanusa-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 17,
+    "VdcID": 184,
+    "FullLocationName": "Bideha-Dhanusa-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 17,
+    "VdcID": 185,
+    "FullLocationName": "Laksminiya-Dhanusa-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 17,
+    "VdcID": 186,
+    "FullLocationName": "Mukhiyapatti Musaharmiya-Dhanusa-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 17,
+    "VdcID": 187,
+    "FullLocationName": "Janak Nandini-Dhanusa-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 17,
+    "VdcID": 188,
+    "FullLocationName": "Aaurahi-Dhanusa-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 17,
+    "VdcID": 189,
+    "FullLocationName": "Bateshwar-Dhanusa-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 17,
+    "VdcID": 190,
+    "FullLocationName": "Dhanauji-Dhanusa-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 18,
+    "VdcID": 191,
+    "FullLocationName": "Gaushala-Mahottari-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 18,
+    "VdcID": 192,
+    "FullLocationName": "Bardibas-Mahottari-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 18,
+    "VdcID": 193,
+    "FullLocationName": "Jaleshwar-Mahottari-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 18,
+    "VdcID": 194,
+    "FullLocationName": "Manara Shisawa-Mahottari-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 18,
+    "VdcID": 195,
+    "FullLocationName": "Bhangaha-Mahottari-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 18,
+    "VdcID": 196,
+    "FullLocationName": "Balawa-Mahottari-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 18,
+    "VdcID": 197,
+    "FullLocationName": "Loharpatti-Mahottari-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 18,
+    "VdcID": 198,
+    "FullLocationName": "Aurahi-Mahottari-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 18,
+    "VdcID": 199,
+    "FullLocationName": "Matihani-Mahottari-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 18,
+    "VdcID": 200,
+    "FullLocationName": "Ramgopalpur-Mahottari-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 18,
+    "VdcID": 201,
+    "FullLocationName": "Sonama-Mahottari-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 18,
+    "VdcID": 202,
+    "FullLocationName": "Pipara-Mahottari-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 18,
+    "VdcID": 203,
+    "FullLocationName": "Samsi-Mahottari-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 18,
+    "VdcID": 204,
+    "FullLocationName": "Ekdara-Mahottari-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 18,
+    "VdcID": 205,
+    "FullLocationName": "Mahottari-Mahottari-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 19,
+    "VdcID": 206,
+    "FullLocationName": "Barahathwa-Sarlahi-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 19,
+    "VdcID": 207,
+    "FullLocationName": "Ishwarpur-Sarlahi-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 19,
+    "VdcID": 208,
+    "FullLocationName": "Lalbandi-Sarlahi-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 19,
+    "VdcID": 209,
+    "FullLocationName": "Godaita-Sarlahi-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 19,
+    "VdcID": 210,
+    "FullLocationName": "Malangwa-Sarlahi-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 19,
+    "VdcID": 211,
+    "FullLocationName": "Balara-Sarlahi-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 19,
+    "VdcID": 212,
+    "FullLocationName": "Hariwan-Sarlahi-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 19,
+    "VdcID": 213,
+    "FullLocationName": "Kabilasi-Sarlahi-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 19,
+    "VdcID": 214,
+    "FullLocationName": "Bagmati-Sarlahi-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 19,
+    "VdcID": 215,
+    "FullLocationName": "Haripur-Sarlahi-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 19,
+    "VdcID": 216,
+    "FullLocationName": "Haripurwa-Sarlahi-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 19,
+    "VdcID": 217,
+    "FullLocationName": "Chandranagar-Sarlahi-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 19,
+    "VdcID": 218,
+    "FullLocationName": "Bramhapuri-Sarlahi-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 19,
+    "VdcID": 219,
+    "FullLocationName": "Ramnagar-Sarlahi-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 19,
+    "VdcID": 220,
+    "FullLocationName": "Chakraghatta-Sarlahi-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 19,
+    "VdcID": 221,
+    "FullLocationName": "Kaudena-Sarlahi-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 19,
+    "VdcID": 222,
+    "FullLocationName": "Dhankaul-Sarlahi-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 19,
+    "VdcID": 223,
+    "FullLocationName": "Bishnu-Sarlahi-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 19,
+    "VdcID": 224,
+    "FullLocationName": "Basbariya-Sarlahi-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 19,
+    "VdcID": 225,
+    "FullLocationName": "Parsa-Sarlahi-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 20,
+    "VdcID": 226,
+    "FullLocationName": "Kalaiya-Bara-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 20,
+    "VdcID": 227,
+    "FullLocationName": "Jitpur Simara-Bara-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 20,
+    "VdcID": 228,
+    "FullLocationName": "Mahagadhimai-Bara-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 20,
+    "VdcID": 229,
+    "FullLocationName": "Simraungadh-Bara-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 20,
+    "VdcID": 230,
+    "FullLocationName": "Kolhabi-Bara-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 20,
+    "VdcID": 231,
+    "FullLocationName": "Nijgadh-Bara-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 20,
+    "VdcID": 232,
+    "FullLocationName": "Pachrauta-Bara-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 20,
+    "VdcID": 233,
+    "FullLocationName": "Subarna-Bara-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 20,
+    "VdcID": 234,
+    "FullLocationName": "Adarsha Kotwal-Bara-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 20,
+    "VdcID": 235,
+    "FullLocationName": "Baragadhi-Bara-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 20,
+    "VdcID": 236,
+    "FullLocationName": "Pheta-Bara-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 20,
+    "VdcID": 237,
+    "FullLocationName": "Karaiyamai-Bara-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 20,
+    "VdcID": 238,
+    "FullLocationName": "Prasauni-Bara-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 20,
+    "VdcID": 239,
+    "FullLocationName": "Bishrampur-Bara-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 20,
+    "VdcID": 240,
+    "FullLocationName": "Devtal-Bara-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 20,
+    "VdcID": 241,
+    "FullLocationName": "Parawanipur-Bara-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 21,
+    "VdcID": 242,
+    "FullLocationName": "Birgunj-Parsa-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 21,
+    "VdcID": 243,
+    "FullLocationName": "Bahudarmai-Parsa-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 21,
+    "VdcID": 244,
+    "FullLocationName": "Parsagadhi-Parsa-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 21,
+    "VdcID": 245,
+    "FullLocationName": "Pokhariya-Parsa-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 21,
+    "VdcID": 246,
+    "FullLocationName": "Sakhuwa Prasauni-Parsa-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 21,
+    "VdcID": 247,
+    "FullLocationName": "Jagarnathpur-Parsa-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 21,
+    "VdcID": 248,
+    "FullLocationName": "Chhipaharmai-Parsa-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 21,
+    "VdcID": 249,
+    "FullLocationName": "Bindabasini-Parsa-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 21,
+    "VdcID": 250,
+    "FullLocationName": "Paterwa Sugauli-Parsa-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 21,
+    "VdcID": 251,
+    "FullLocationName": "Jira Bhavani-Parsa-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 21,
+    "VdcID": 252,
+    "FullLocationName": "Kalikamai-Parsa-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 21,
+    "VdcID": 253,
+    "FullLocationName": "Pakaha Mainpur-Parsa-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 21,
+    "VdcID": 254,
+    "FullLocationName": "Thori-Parsa-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 21,
+    "VdcID": 255,
+    "FullLocationName": "Dhobini-Parsa-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 22,
+    "VdcID": 256,
+    "FullLocationName": "Chandrapur-Rautahat-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 22,
+    "VdcID": 257,
+    "FullLocationName": "Garuda-Rautahat-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 22,
+    "VdcID": 258,
+    "FullLocationName": "Gujara-Rautahat-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 22,
+    "VdcID": 259,
+    "FullLocationName": "Brindaban-Rautahat-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 22,
+    "VdcID": 260,
+    "FullLocationName": "Ishnath-Rautahat-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 22,
+    "VdcID": 261,
+    "FullLocationName": "Rajpur-Rautahat-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 22,
+    "VdcID": 262,
+    "FullLocationName": "Gadhimai-Rautahat-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 22,
+    "VdcID": 263,
+    "FullLocationName": "Katahariya-Rautahat-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 22,
+    "VdcID": 264,
+    "FullLocationName": "Paroha-Rautahat-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 22,
+    "VdcID": 265,
+    "FullLocationName": "Phatuwa Bijayapur-Rautahat-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 22,
+    "VdcID": 266,
+    "FullLocationName": "Baudhimai-Rautahat-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 22,
+    "VdcID": 267,
+    "FullLocationName": "Madhav Narayan-Rautahat-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 22,
+    "VdcID": 268,
+    "FullLocationName": "Gaur-Rautahat-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 22,
+    "VdcID": 269,
+    "FullLocationName": "Dewahi Gonahi-Rautahat-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 22,
+    "VdcID": 270,
+    "FullLocationName": "Rajdevi-Rautahat-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 22,
+    "VdcID": 271,
+    "FullLocationName": "Maulapur-Rautahat-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 22,
+    "VdcID": 272,
+    "FullLocationName": "Durga Bhagawati-Rautahat-Madhesh"
+  },
+  {
+    "ZoneID": 2,
+    "DistrictID": 22,
+    "VdcID": 273,
+    "FullLocationName": "Yamunamai-Rautahat-Madhesh"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 23,
+    "VdcID": 274,
+    "FullLocationName": "Dudhauli-Sindhuli-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 23,
+    "VdcID": 275,
+    "FullLocationName": "Kamalamai-Sindhuli-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 23,
+    "VdcID": 276,
+    "FullLocationName": "Tinpatan-Sindhuli-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 23,
+    "VdcID": 277,
+    "FullLocationName": "Marin-Sindhuli-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 23,
+    "VdcID": 278,
+    "FullLocationName": "Hariharpurgadhi-Sindhuli-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 23,
+    "VdcID": 279,
+    "FullLocationName": "Sunkoshi-Sindhuli-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 23,
+    "VdcID": 280,
+    "FullLocationName": "Golanjor-Sindhuli-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 23,
+    "VdcID": 281,
+    "FullLocationName": "Phikkal-Sindhuli-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 23,
+    "VdcID": 282,
+    "FullLocationName": "Ghyanglekh-Sindhuli-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 24,
+    "VdcID": 283,
+    "FullLocationName": "Manthali-Ramechhap-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 24,
+    "VdcID": 284,
+    "FullLocationName": "Ramechhap-Ramechhap-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 24,
+    "VdcID": 285,
+    "FullLocationName": "Khandadevi-Ramechhap-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 24,
+    "VdcID": 286,
+    "FullLocationName": "Likhu Tamakoshi-Ramechhap-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 24,
+    "VdcID": 287,
+    "FullLocationName": "Doramba-Ramechhap-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 24,
+    "VdcID": 288,
+    "FullLocationName": "Gokulganga-Ramechhap-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 24,
+    "VdcID": 289,
+    "FullLocationName": "Sunapati-Ramechhap-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 24,
+    "VdcID": 290,
+    "FullLocationName": "Umakunda-Ramechhap-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 25,
+    "VdcID": 291,
+    "FullLocationName": "Bhimeshwar-Dolakha-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 25,
+    "VdcID": 292,
+    "FullLocationName": "Jiri-Dolakha-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 25,
+    "VdcID": 293,
+    "FullLocationName": "Kalinchok-Dolakha-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 25,
+    "VdcID": 294,
+    "FullLocationName": "Melung-Dolakha-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 25,
+    "VdcID": 295,
+    "FullLocationName": "Shailung-Dolakha-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 25,
+    "VdcID": 296,
+    "FullLocationName": "Baiteshwar-Dolakha-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 25,
+    "VdcID": 297,
+    "FullLocationName": "Tamakoshi-Dolakha-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 25,
+    "VdcID": 298,
+    "FullLocationName": "Bigu-Dolakha-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 25,
+    "VdcID": 299,
+    "FullLocationName": "Gaurishankar-Dolakha-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 26,
+    "VdcID": 300,
+    "FullLocationName": "Bhaktapur-Bhaktapur-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 26,
+    "VdcID": 301,
+    "FullLocationName": "Suryabinayak-Bhaktapur-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 26,
+    "VdcID": 302,
+    "FullLocationName": "Changunarayan-Bhaktapur-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 26,
+    "VdcID": 303,
+    "FullLocationName": "Madhyapur Thimi-Bhaktapur-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 27,
+    "VdcID": 304,
+    "FullLocationName": "Nilkantha-Dhading-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 27,
+    "VdcID": 305,
+    "FullLocationName": "Dhunibeshi-Dhading-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 27,
+    "VdcID": 306,
+    "FullLocationName": "Thakre-Dhading-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 27,
+    "VdcID": 307,
+    "FullLocationName": "Benighat Rorang-Dhading-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 27,
+    "VdcID": 308,
+    "FullLocationName": "Galchhi-Dhading-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 27,
+    "VdcID": 309,
+    "FullLocationName": "Gajuri-Dhading-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 27,
+    "VdcID": 310,
+    "FullLocationName": "Jwalamukhi-Dhading-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 27,
+    "VdcID": 311,
+    "FullLocationName": "Siddhalekh-Dhading-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 27,
+    "VdcID": 312,
+    "FullLocationName": "Tripura Sundari-Dhading-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 27,
+    "VdcID": 313,
+    "FullLocationName": "Gangajamuna-Dhading-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 27,
+    "VdcID": 314,
+    "FullLocationName": "Netrawati Dabjong-Dhading-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 27,
+    "VdcID": 315,
+    "FullLocationName": "Khaniyabas-Dhading-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 27,
+    "VdcID": 316,
+    "FullLocationName": "Ruby Valley-Dhading-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 28,
+    "VdcID": 317,
+    "FullLocationName": "Kathmandu-Kathmandu-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 28,
+    "VdcID": 318,
+    "FullLocationName": "Budhanilkantha-Kathmandu-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 28,
+    "VdcID": 319,
+    "FullLocationName": "Gokarneshwar-Kathmandu-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 28,
+    "VdcID": 320,
+    "FullLocationName": "Tokha-Kathmandu-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 28,
+    "VdcID": 321,
+    "FullLocationName": "Chandragiri-Kathmandu-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 28,
+    "VdcID": 322,
+    "FullLocationName": "Tarakeshwar-Kathmandu-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 28,
+    "VdcID": 323,
+    "FullLocationName": "Kirtipur-Kathmandu-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 28,
+    "VdcID": 324,
+    "FullLocationName": "Nagarjun-Kathmandu-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 28,
+    "VdcID": 325,
+    "FullLocationName": "Kageshwari-Manohara-Kathmandu-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 28,
+    "VdcID": 326,
+    "FullLocationName": "Shankharapur-Kathmandu-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 28,
+    "VdcID": 327,
+    "FullLocationName": "Dakshinkali-Kathmandu-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 29,
+    "VdcID": 328,
+    "FullLocationName": "Banepa-Kavrepalanchok-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 29,
+    "VdcID": 329,
+    "FullLocationName": "Paunauti-Kavrepalanchok-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 29,
+    "VdcID": 330,
+    "FullLocationName": "Panchkhal-Kavrepalanchok-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 29,
+    "VdcID": 331,
+    "FullLocationName": "Mandandeupur-Kavrepalanchok-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 29,
+    "VdcID": 332,
+    "FullLocationName": "Dhulikhel-Kavrepalanchok-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 29,
+    "VdcID": 333,
+    "FullLocationName": "Namobuddha-Kavrepalanchok-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 29,
+    "VdcID": 334,
+    "FullLocationName": "Roshi-Kavrepalanchok-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 29,
+    "VdcID": 335,
+    "FullLocationName": "Temal-Kavrepalanchok-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 29,
+    "VdcID": 336,
+    "FullLocationName": "Chaunri Deurali-Kavrepalanchok-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 29,
+    "VdcID": 337,
+    "FullLocationName": "Bhumlu-Kavrepalanchok-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 29,
+    "VdcID": 338,
+    "FullLocationName": "Mahabharat-Kavrepalanchok-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 29,
+    "VdcID": 339,
+    "FullLocationName": "Bethanchok-Kavrepalanchok-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 29,
+    "VdcID": 340,
+    "FullLocationName": "Khanikhola-Kavrepalanchok-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 30,
+    "VdcID": 341,
+    "FullLocationName": "Lalitpur-Lalitpur-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 30,
+    "VdcID": 342,
+    "FullLocationName": "Godawari-Lalitpur-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 30,
+    "VdcID": 343,
+    "FullLocationName": "Mahalaxmi-Lalitpur-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 30,
+    "VdcID": 344,
+    "FullLocationName": "Bagmati-Lalitpur-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 30,
+    "VdcID": 345,
+    "FullLocationName": "Konjyosom-Lalitpur-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 30,
+    "VdcID": 346,
+    "FullLocationName": "Mahankal-Lalitpur-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 31,
+    "VdcID": 347,
+    "FullLocationName": "Bidur-Nuwakot-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 31,
+    "VdcID": 348,
+    "FullLocationName": "Belkotgadhi-Nuwakot-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 31,
+    "VdcID": 349,
+    "FullLocationName": "Kakani-Nuwakot-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 31,
+    "VdcID": 350,
+    "FullLocationName": "Dupcheshwar-Nuwakot-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 31,
+    "VdcID": 351,
+    "FullLocationName": "Shivapuri-Nuwakot-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 31,
+    "VdcID": 352,
+    "FullLocationName": "Tadi-Nuwakot-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 31,
+    "VdcID": 353,
+    "FullLocationName": "Likhu-Nuwakot-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 31,
+    "VdcID": 354,
+    "FullLocationName": "Suryagadhi-Nuwakot-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 31,
+    "VdcID": 355,
+    "FullLocationName": "Panchakanya-Nuwakot-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 31,
+    "VdcID": 356,
+    "FullLocationName": "Tarkeshwar-Nuwakot-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 31,
+    "VdcID": 357,
+    "FullLocationName": "Kispang-Nuwakot-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 31,
+    "VdcID": 358,
+    "FullLocationName": "Myagang-Nuwakot-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 32,
+    "VdcID": 359,
+    "FullLocationName": "Naukunda-Rasuwa-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 32,
+    "VdcID": 360,
+    "FullLocationName": "Kalika-Rasuwa-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 32,
+    "VdcID": 361,
+    "FullLocationName": "Uttargaya-Rasuwa-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 32,
+    "VdcID": 362,
+    "FullLocationName": "Gosaikund-Rasuwa-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 32,
+    "VdcID": 363,
+    "FullLocationName": "Aamachodingmo-Rasuwa-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 33,
+    "VdcID": 364,
+    "FullLocationName": "Chautara Sangachokgadhi-Sindhupalchok-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 33,
+    "VdcID": 365,
+    "FullLocationName": "Melamchi-Sindhupalchok-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 33,
+    "VdcID": 366,
+    "FullLocationName": "Barhabise-Sindhupalchok-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 33,
+    "VdcID": 367,
+    "FullLocationName": "Indrawati-Sindhupalchok-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 33,
+    "VdcID": 368,
+    "FullLocationName": "Panchpokhari Thangpal-Sindhupalchok-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 33,
+    "VdcID": 369,
+    "FullLocationName": "Jugal-Sindhupalchok-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 33,
+    "VdcID": 370,
+    "FullLocationName": "Balephi-Sindhupalchok-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 33,
+    "VdcID": 371,
+    "FullLocationName": "Helambu-Sindhupalchok-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 33,
+    "VdcID": 372,
+    "FullLocationName": "Bhotekoshi-Sindhupalchok-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 33,
+    "VdcID": 373,
+    "FullLocationName": "Sunkoshi-Sindhupalchok-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 33,
+    "VdcID": 374,
+    "FullLocationName": "Lisankhu Pakhar-Sindhupalchok-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 33,
+    "VdcID": 375,
+    "FullLocationName": "Tripura Sundari-Sindhupalchok-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 34,
+    "VdcID": 376,
+    "FullLocationName": "Bharatpur-Chitwan-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 34,
+    "VdcID": 377,
+    "FullLocationName": "Ratnanagar-Chitwan-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 34,
+    "VdcID": 378,
+    "FullLocationName": "Rapti-Chitwan-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 34,
+    "VdcID": 379,
+    "FullLocationName": "Khairhani-Chitwan-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 34,
+    "VdcID": 380,
+    "FullLocationName": "Kalika-Chitwan-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 34,
+    "VdcID": 381,
+    "FullLocationName": "Madi-Chitwan-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 34,
+    "VdcID": 382,
+    "FullLocationName": "Ichchhakamana-Chitwan-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 35,
+    "VdcID": 383,
+    "FullLocationName": "Hetauda-Makwanpur-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 35,
+    "VdcID": 384,
+    "FullLocationName": "Thaha-Makwanpur-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 35,
+    "VdcID": 385,
+    "FullLocationName": "Bakaiya-Makwanpur-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 35,
+    "VdcID": 386,
+    "FullLocationName": "Manhari-Makwanpur-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 35,
+    "VdcID": 387,
+    "FullLocationName": "Bagmati-Makwanpur-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 35,
+    "VdcID": 388,
+    "FullLocationName": "Raksirang-Makwanpur-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 35,
+    "VdcID": 389,
+    "FullLocationName": "Makawanpurgadhi-Makwanpur-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 35,
+    "VdcID": 390,
+    "FullLocationName": "Kailash-Makwanpur-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 35,
+    "VdcID": 391,
+    "FullLocationName": "Bhimphedi-Makwanpur-Bagmati"
+  },
+  {
+    "ZoneID": 3,
+    "DistrictID": 35,
+    "VdcID": 392,
+    "FullLocationName": "Indrasarowar-Makwanpur-Bagmati"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 36,
+    "VdcID": 393,
+    "FullLocationName": "Baglung-Baglung-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 36,
+    "VdcID": 394,
+    "FullLocationName": "Galkot-Baglung-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 36,
+    "VdcID": 395,
+    "FullLocationName": "Jaimini-Baglung-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 36,
+    "VdcID": 396,
+    "FullLocationName": "Dhorpatan-Baglung-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 36,
+    "VdcID": 397,
+    "FullLocationName": "Badigad-Baglung-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 36,
+    "VdcID": 398,
+    "FullLocationName": "Kathekhola-Baglung-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 36,
+    "VdcID": 399,
+    "FullLocationName": "Nisikhola-Baglung-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 36,
+    "VdcID": 400,
+    "FullLocationName": "Bareng-Baglung-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 36,
+    "VdcID": 401,
+    "FullLocationName": "Tarakhola-Baglung-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 36,
+    "VdcID": 402,
+    "FullLocationName": "Tamankhola-Baglung-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 37,
+    "VdcID": 403,
+    "FullLocationName": "Palungtar-Gorkha-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 37,
+    "VdcID": 404,
+    "FullLocationName": "Shahid Lakhan-Gorkha-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 37,
+    "VdcID": 405,
+    "FullLocationName": "Barpak Sulikot-Gorkha-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 37,
+    "VdcID": 406,
+    "FullLocationName": "Aarughat-Gorkha-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 37,
+    "VdcID": 407,
+    "FullLocationName": "Siranchok-Gorkha-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 37,
+    "VdcID": 408,
+    "FullLocationName": "Gandaki-Gorkha-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 37,
+    "VdcID": 409,
+    "FullLocationName": "Bhimsen Thapa-Gorkha-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 37,
+    "VdcID": 410,
+    "FullLocationName": "Ajirkot-Gorkha-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 37,
+    "VdcID": 411,
+    "FullLocationName": "Dharche-Gorkha-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 37,
+    "VdcID": 412,
+    "FullLocationName": "Chum Nubri-Gorkha-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 37,
+    "VdcID": 413,
+    "FullLocationName": "Gorkha-Gorkha-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 38,
+    "VdcID": 414,
+    "FullLocationName": "Pokhara-Kaski-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 38,
+    "VdcID": 415,
+    "FullLocationName": "Annapurna-Kaski-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 38,
+    "VdcID": 416,
+    "FullLocationName": "Machhapuchhre-Kaski-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 38,
+    "VdcID": 417,
+    "FullLocationName": "Madi-Kaski-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 38,
+    "VdcID": 418,
+    "FullLocationName": "Rupa-Kaski-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 39,
+    "VdcID": 419,
+    "FullLocationName": "Besisahar-Lamjung-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 39,
+    "VdcID": 420,
+    "FullLocationName": "Sundarbazar-Lamjung-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 39,
+    "VdcID": 421,
+    "FullLocationName": "Madhya Nepal-Lamjung-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 39,
+    "VdcID": 422,
+    "FullLocationName": "Rainas-Lamjung-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 39,
+    "VdcID": 423,
+    "FullLocationName": "Marsyangdi-Lamjung-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 39,
+    "VdcID": 424,
+    "FullLocationName": "Dordi-Lamjung-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 39,
+    "VdcID": 425,
+    "FullLocationName": "Dudhpokhari-Lamjung-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 39,
+    "VdcID": 426,
+    "FullLocationName": "Kwaholasothar-Lamjung-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 40,
+    "VdcID": 427,
+    "FullLocationName": "Manang Disyang-Manang-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 40,
+    "VdcID": 428,
+    "FullLocationName": "Nason-Manang-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 40,
+    "VdcID": 429,
+    "FullLocationName": "Chame-Manang-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 40,
+    "VdcID": 430,
+    "FullLocationName": "Narpa Bhumi-Manang-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 41,
+    "VdcID": 431,
+    "FullLocationName": "Gharpajhong-Mustang-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 41,
+    "VdcID": 432,
+    "FullLocationName": "Thasang-Mustang-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 41,
+    "VdcID": 433,
+    "FullLocationName": "Baragung Muktichhetra-Mustang-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 41,
+    "VdcID": 434,
+    "FullLocationName": "Lomanthang-Mustang-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 41,
+    "VdcID": 435,
+    "FullLocationName": "Lo-Thekar Damodarkunda-Mustang-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 42,
+    "VdcID": 436,
+    "FullLocationName": "Beni-Myagdi-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 42,
+    "VdcID": 437,
+    "FullLocationName": "Malika-Myagdi-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 42,
+    "VdcID": 438,
+    "FullLocationName": "Mangala-Myagdi-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 42,
+    "VdcID": 439,
+    "FullLocationName": "Raghuganga-Myagdi-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 42,
+    "VdcID": 440,
+    "FullLocationName": "Dhaulagiri-Myagdi-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 42,
+    "VdcID": 441,
+    "FullLocationName": "Annapurna-Myagdi-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 43,
+    "VdcID": 442,
+    "FullLocationName": "Kawasoti-Nawalpur-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 43,
+    "VdcID": 443,
+    "FullLocationName": "Gaindakot-Nawalpur-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 43,
+    "VdcID": 444,
+    "FullLocationName": "Madhyabindu-Nawalpur-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 43,
+    "VdcID": 445,
+    "FullLocationName": "Devchuli-Nawalpur-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 43,
+    "VdcID": 446,
+    "FullLocationName": "Hupsekot-Nawalpur-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 43,
+    "VdcID": 447,
+    "FullLocationName": "Binayi Triveni-Nawalpur-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 43,
+    "VdcID": 448,
+    "FullLocationName": "Bulingtar-Nawalpur-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 43,
+    "VdcID": 449,
+    "FullLocationName": "Baudikali-Nawalpur-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 44,
+    "VdcID": 450,
+    "FullLocationName": "Kushma-Parbat-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 44,
+    "VdcID": 451,
+    "FullLocationName": "Phalewas-Parbat-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 44,
+    "VdcID": 452,
+    "FullLocationName": "Jaljala-Parbat-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 44,
+    "VdcID": 453,
+    "FullLocationName": "Modi-Parbat-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 44,
+    "VdcID": 454,
+    "FullLocationName": "Painyu-Parbat-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 44,
+    "VdcID": 455,
+    "FullLocationName": "Bihadi-Parbat-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 44,
+    "VdcID": 456,
+    "FullLocationName": "Mahashila-Parbat-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 45,
+    "VdcID": 457,
+    "FullLocationName": "Waling-Syangja-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 45,
+    "VdcID": 458,
+    "FullLocationName": "Putalibazar-Syangja-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 45,
+    "VdcID": 459,
+    "FullLocationName": "Galyang-Syangja-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 45,
+    "VdcID": 460,
+    "FullLocationName": "Chapakot-Syangja-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 45,
+    "VdcID": 461,
+    "FullLocationName": "Bhirkot-Syangja-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 45,
+    "VdcID": 462,
+    "FullLocationName": "Kaligandaki-Syangja-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 45,
+    "VdcID": 463,
+    "FullLocationName": "Biruwa-Syangja-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 45,
+    "VdcID": 464,
+    "FullLocationName": "Harinas-Syangja-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 45,
+    "VdcID": 465,
+    "FullLocationName": "Aandhikhola-Syangja-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 45,
+    "VdcID": 466,
+    "FullLocationName": "Arjun Chaupari-Syangja-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 45,
+    "VdcID": 467,
+    "FullLocationName": "Phedikhola-Syangja-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 46,
+    "VdcID": 468,
+    "FullLocationName": "Vyas-Tanahun-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 46,
+    "VdcID": 469,
+    "FullLocationName": "Shuklagandaki-Tanahun-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 46,
+    "VdcID": 470,
+    "FullLocationName": "Bhanu-Tanahun-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 46,
+    "VdcID": 471,
+    "FullLocationName": "Bhimad-Tanahun-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 46,
+    "VdcID": 472,
+    "FullLocationName": "Rishing-Tanahun-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 46,
+    "VdcID": 473,
+    "FullLocationName": "Myagde-Tanahun-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 46,
+    "VdcID": 474,
+    "FullLocationName": "Aanbu Khaireni-Tanahun-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 46,
+    "VdcID": 475,
+    "FullLocationName": "Bandipur-Tanahun-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 46,
+    "VdcID": 476,
+    "FullLocationName": "Ghiring-Tanahun-Gandaki"
+  },
+  {
+    "ZoneID": 4,
+    "DistrictID": 46,
+    "VdcID": 477,
+    "FullLocationName": "Devghat-Tanahun-Gandaki"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 47,
+    "VdcID": 478,
+    "FullLocationName": "Kapilvastu-Kapilvastu-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 47,
+    "VdcID": 479,
+    "FullLocationName": "Banganga-Kapilvastu-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 47,
+    "VdcID": 480,
+    "FullLocationName": "Shivaraj-Kapilvastu-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 47,
+    "VdcID": 481,
+    "FullLocationName": "Buddhabhumi-Kapilvastu-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 47,
+    "VdcID": 482,
+    "FullLocationName": "Krishnanagar-Kapilvastu-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 47,
+    "VdcID": 483,
+    "FullLocationName": "Maharajganj-Kapilvastu-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 47,
+    "VdcID": 484,
+    "FullLocationName": "Mayadevi-Kapilvastu-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 47,
+    "VdcID": 485,
+    "FullLocationName": "Shuddhodhan-Kapilvastu-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 47,
+    "VdcID": 486,
+    "FullLocationName": "Yasodhara-Kapilvastu-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 47,
+    "VdcID": 487,
+    "FullLocationName": "Bijaynagar-Kapilvastu-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 48,
+    "VdcID": 488,
+    "FullLocationName": "Ramgram-Parasi-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 48,
+    "VdcID": 489,
+    "FullLocationName": "Sunwal-Parasi-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 48,
+    "VdcID": 490,
+    "FullLocationName": "Bardghat-Parasi-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 48,
+    "VdcID": 491,
+    "FullLocationName": "Triveni Susta-Parasi-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 48,
+    "VdcID": 492,
+    "FullLocationName": "Pratappur-Parasi-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 48,
+    "VdcID": 493,
+    "FullLocationName": "Sarawal-Parasi-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 48,
+    "VdcID": 494,
+    "FullLocationName": "Palhi Nandan-Parasi-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 49,
+    "VdcID": 495,
+    "FullLocationName": "Butwal-Rupandehi-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 49,
+    "VdcID": 496,
+    "FullLocationName": "Tilottama-Rupandehi-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 49,
+    "VdcID": 497,
+    "FullLocationName": "Lumbini Sanskritik-Rupandehi-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 49,
+    "VdcID": 498,
+    "FullLocationName": "Siddharthanagar-Rupandehi-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 49,
+    "VdcID": 499,
+    "FullLocationName": "Sainamaina-Rupandehi-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 49,
+    "VdcID": 500,
+    "FullLocationName": "Devdaha-Rupandehi-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 49,
+    "VdcID": 501,
+    "FullLocationName": "Gaidhawa-Rupandehi-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 49,
+    "VdcID": 502,
+    "FullLocationName": "Mayadevi-Rupandehi-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 49,
+    "VdcID": 503,
+    "FullLocationName": "Kotahimai-Rupandehi-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 49,
+    "VdcID": 504,
+    "FullLocationName": "Marchawarimai-Rupandehi-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 49,
+    "VdcID": 505,
+    "FullLocationName": "Siyari-Rupandehi-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 49,
+    "VdcID": 506,
+    "FullLocationName": "Sammarimai-Rupandehi-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 49,
+    "VdcID": 507,
+    "FullLocationName": "Rohini-Rupandehi-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 49,
+    "VdcID": 508,
+    "FullLocationName": "Shuddhodhan-Rupandehi-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 49,
+    "VdcID": 509,
+    "FullLocationName": "Om Satiya-Rupandehi-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 49,
+    "VdcID": 510,
+    "FullLocationName": "Kanchan-Rupandehi-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 50,
+    "VdcID": 511,
+    "FullLocationName": "Sitganga-Arghakhanchi-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 50,
+    "VdcID": 512,
+    "FullLocationName": "Sandhikharka-Arghakhanchi-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 50,
+    "VdcID": 513,
+    "FullLocationName": "Bhumikasthan-Arghakhanchi-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 50,
+    "VdcID": 514,
+    "FullLocationName": "Malarani-Arghakhanchi-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 50,
+    "VdcID": 515,
+    "FullLocationName": "Pandini-Arghakhanchi-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 50,
+    "VdcID": 516,
+    "FullLocationName": "Chhatradev-Arghakhanchi-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 51,
+    "VdcID": 517,
+    "FullLocationName": "Musikot-Gulmi-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 51,
+    "VdcID": 518,
+    "FullLocationName": "Resunga-Gulmi-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 51,
+    "VdcID": 519,
+    "FullLocationName": "Satyawati-Gulmi-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 51,
+    "VdcID": 520,
+    "FullLocationName": "Dhurkot-Gulmi-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 51,
+    "VdcID": 521,
+    "FullLocationName": "Gulmi Durbar-Gulmi-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 51,
+    "VdcID": 522,
+    "FullLocationName": "Madane-Gulmi-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 51,
+    "VdcID": 523,
+    "FullLocationName": "Chandrakot-Gulmi-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 51,
+    "VdcID": 524,
+    "FullLocationName": "Malika-Gulmi-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 51,
+    "VdcID": 525,
+    "FullLocationName": "Chhatrakot-Gulmi-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 51,
+    "VdcID": 526,
+    "FullLocationName": "Isma-Gulmi-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 51,
+    "VdcID": 527,
+    "FullLocationName": "Kaligandaki-Gulmi-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 51,
+    "VdcID": 528,
+    "FullLocationName": "Ruru-Gulmi-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 52,
+    "VdcID": 529,
+    "FullLocationName": "Tansen-Palpa-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 52,
+    "VdcID": 530,
+    "FullLocationName": "Rampur-Palpa-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 52,
+    "VdcID": 531,
+    "FullLocationName": "Rainadevi Chhahara-Palpa-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 52,
+    "VdcID": 532,
+    "FullLocationName": "Mathagadhi-Palpa-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 52,
+    "VdcID": 533,
+    "FullLocationName": "Nisdi-Palpa-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 52,
+    "VdcID": 534,
+    "FullLocationName": "Bagnaskali-Palpa-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 52,
+    "VdcID": 535,
+    "FullLocationName": "Rambha-Palpa-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 52,
+    "VdcID": 536,
+    "FullLocationName": "Purbakhola-Palpa-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 52,
+    "VdcID": 537,
+    "FullLocationName": "Tinau-Palpa-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 52,
+    "VdcID": 538,
+    "FullLocationName": "Ribdikot-Palpa-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 53,
+    "VdcID": 539,
+    "FullLocationName": "Ghorahi-Dang-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 53,
+    "VdcID": 540,
+    "FullLocationName": "Tulsipur-Dang-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 53,
+    "VdcID": 541,
+    "FullLocationName": "Lamahi-Dang-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 53,
+    "VdcID": 542,
+    "FullLocationName": "Rapti-Dang-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 53,
+    "VdcID": 543,
+    "FullLocationName": "Gadhawa-Dang-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 53,
+    "VdcID": 544,
+    "FullLocationName": "Babai-Dang-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 53,
+    "VdcID": 545,
+    "FullLocationName": "Shantinagar-Dang-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 53,
+    "VdcID": 546,
+    "FullLocationName": "Rajpur-Dang-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 53,
+    "VdcID": 547,
+    "FullLocationName": "Banglachuli-Dang-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 53,
+    "VdcID": 548,
+    "FullLocationName": "Dangisharan-Dang-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 54,
+    "VdcID": 549,
+    "FullLocationName": "Swargadwari-Pyuthan-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 54,
+    "VdcID": 550,
+    "FullLocationName": "Naubahini-Pyuthan-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 54,
+    "VdcID": 551,
+    "FullLocationName": "Jhimaruk-Pyuthan-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 54,
+    "VdcID": 552,
+    "FullLocationName": "Gaumukhi-Pyuthan-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 54,
+    "VdcID": 553,
+    "FullLocationName": "Airawati-Pyuthan-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 54,
+    "VdcID": 554,
+    "FullLocationName": "Sarumarani-Pyuthan-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 54,
+    "VdcID": 555,
+    "FullLocationName": "Mallarani-Pyuthan-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 54,
+    "VdcID": 556,
+    "FullLocationName": "Mandavi-Pyuthan-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 54,
+    "VdcID": 557,
+    "FullLocationName": "Pyuthan-Pyuthan-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 55,
+    "VdcID": 558,
+    "FullLocationName": "Rolpa-Rolpa-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 55,
+    "VdcID": 559,
+    "FullLocationName": "Sunil Smriti-Rolpa-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 55,
+    "VdcID": 560,
+    "FullLocationName": "Runtigadhi-Rolpa-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 55,
+    "VdcID": 561,
+    "FullLocationName": "Lungri-Rolpa-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 55,
+    "VdcID": 562,
+    "FullLocationName": "Triveni-Rolpa-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 55,
+    "VdcID": 563,
+    "FullLocationName": "Paribartan-Rolpa-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 55,
+    "VdcID": 564,
+    "FullLocationName": "Gangadev-Rolpa-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 55,
+    "VdcID": 565,
+    "FullLocationName": "Madi-Rolpa-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 55,
+    "VdcID": 566,
+    "FullLocationName": "Sunchhahari-Rolpa-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 55,
+    "VdcID": 567,
+    "FullLocationName": "Thawang-Rolpa-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 56,
+    "VdcID": 568,
+    "FullLocationName": "Bhume-Eastern Rukum-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 56,
+    "VdcID": 569,
+    "FullLocationName": "Putha Uttarganga-Eastern Rukum-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 56,
+    "VdcID": 570,
+    "FullLocationName": "Sisne-Eastern Rukum-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 57,
+    "VdcID": 571,
+    "FullLocationName": "Nepalgunj-Banke-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 57,
+    "VdcID": 572,
+    "FullLocationName": "Kohalpur-Banke-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 57,
+    "VdcID": 573,
+    "FullLocationName": "Raptisonari-Banke-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 57,
+    "VdcID": 574,
+    "FullLocationName": "Baijnath-Banke-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 57,
+    "VdcID": 575,
+    "FullLocationName": "Khajura-Banke-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 57,
+    "VdcID": 576,
+    "FullLocationName": "Janaki-Banke-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 57,
+    "VdcID": 577,
+    "FullLocationName": "Duduwa-Banke-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 57,
+    "VdcID": 578,
+    "FullLocationName": "Narainapur-Banke-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 58,
+    "VdcID": 579,
+    "FullLocationName": "Barbardiya-Bardiya-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 58,
+    "VdcID": 580,
+    "FullLocationName": "Gulariya-Bardiya-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 58,
+    "VdcID": 581,
+    "FullLocationName": "Rajapur-Bardiya-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 58,
+    "VdcID": 582,
+    "FullLocationName": "Bansgadhi-Bardiya-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 58,
+    "VdcID": 583,
+    "FullLocationName": "Madhuwan-Bardiya-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 58,
+    "VdcID": 584,
+    "FullLocationName": "Thakurbaba-Bardiya-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 58,
+    "VdcID": 585,
+    "FullLocationName": "Badhaiyatal-Bardiya-Lumbini"
+  },
+  {
+    "ZoneID": 5,
+    "DistrictID": 58,
+    "VdcID": 586,
+    "FullLocationName": "Geruwa-Bardiya-Lumbini"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 59,
+    "VdcID": 587,
+    "FullLocationName": "Aathabiskot-Western Rukum-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 59,
+    "VdcID": 588,
+    "FullLocationName": "Musikot-Western Rukum-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 59,
+    "VdcID": 589,
+    "FullLocationName": "Chaurjahari-Western Rukum-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 59,
+    "VdcID": 590,
+    "FullLocationName": "Sani Bheri-Western Rukum-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 59,
+    "VdcID": 591,
+    "FullLocationName": "Triveni-Western Rukum-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 59,
+    "VdcID": 592,
+    "FullLocationName": "Banphikot-Western Rukum-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 60,
+    "VdcID": 593,
+    "FullLocationName": "Bangad Kupinde-Salyan-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 60,
+    "VdcID": 594,
+    "FullLocationName": "Bagchaur-Salyan-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 60,
+    "VdcID": 595,
+    "FullLocationName": "Shaarda-Salyan-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 60,
+    "VdcID": 596,
+    "FullLocationName": "Kumakh-Salyan-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 60,
+    "VdcID": 597,
+    "FullLocationName": "Kalimati-Salyan-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 60,
+    "VdcID": 598,
+    "FullLocationName": "Chhatreshwari-Salyan-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 60,
+    "VdcID": 599,
+    "FullLocationName": "Darma-Salyan-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 60,
+    "VdcID": 600,
+    "FullLocationName": "Kapurkot-Salyan-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 60,
+    "VdcID": 601,
+    "FullLocationName": "Triveni-Salyan-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 60,
+    "VdcID": 602,
+    "FullLocationName": "Siddha Kumakh-Salyan-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 61,
+    "VdcID": 603,
+    "FullLocationName": "Tripura Sundari-Dolpa-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 61,
+    "VdcID": 604,
+    "FullLocationName": "Thuli Bheri-Dolpa-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 61,
+    "VdcID": 605,
+    "FullLocationName": "Mudkechula-Dolpa-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 61,
+    "VdcID": 606,
+    "FullLocationName": "Kaike-Dolpa-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 61,
+    "VdcID": 607,
+    "FullLocationName": "She Phoksundo-Dolpa-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 61,
+    "VdcID": 608,
+    "FullLocationName": "Jagadulla-Dolpa-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 61,
+    "VdcID": 609,
+    "FullLocationName": "Dolpo Buddha-Dolpa-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 61,
+    "VdcID": 610,
+    "FullLocationName": "Chharka Tangsong-Dolpa-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 62,
+    "VdcID": 611,
+    "FullLocationName": "Simkot-Humla-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 62,
+    "VdcID": 612,
+    "FullLocationName": "Sarkegad-Humla-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 62,
+    "VdcID": 613,
+    "FullLocationName": "Adanchuli-Humla-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 62,
+    "VdcID": 614,
+    "FullLocationName": "Kharpunath-Humla-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 62,
+    "VdcID": 615,
+    "FullLocationName": "Tanjakot-Humla-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 62,
+    "VdcID": 616,
+    "FullLocationName": "Chankheli-Humla-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 62,
+    "VdcID": 617,
+    "FullLocationName": "Namkha-Humla-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 63,
+    "VdcID": 618,
+    "FullLocationName": "Chandannath-Jumla-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 63,
+    "VdcID": 619,
+    "FullLocationName": "Tatopani-Jumla-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 63,
+    "VdcID": 620,
+    "FullLocationName": "Patarasi-Jumla-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 63,
+    "VdcID": 621,
+    "FullLocationName": "Tila-Jumla-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 63,
+    "VdcID": 622,
+    "FullLocationName": "Kanaka Sundari-Jumla-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 63,
+    "VdcID": 623,
+    "FullLocationName": "Sinja-Jumla-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 63,
+    "VdcID": 624,
+    "FullLocationName": "Hima-Jumla-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 63,
+    "VdcID": 625,
+    "FullLocationName": "Guthichaur-Jumla-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 64,
+    "VdcID": 626,
+    "FullLocationName": "Khandachakra-Kalikot-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 64,
+    "VdcID": 627,
+    "FullLocationName": "Raskot-Kalikot-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 64,
+    "VdcID": 628,
+    "FullLocationName": "Tilagupha-Kalikot-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 64,
+    "VdcID": 629,
+    "FullLocationName": "Narharinath-Kalikot-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 64,
+    "VdcID": 630,
+    "FullLocationName": "Palata-Kalikot-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 64,
+    "VdcID": 631,
+    "FullLocationName": "Shubha Kalika-Kalikot-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 64,
+    "VdcID": 632,
+    "FullLocationName": "Sanni Triveni-Kalikot-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 64,
+    "VdcID": 633,
+    "FullLocationName": "Pachaljharana-Kalikot-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 64,
+    "VdcID": 634,
+    "FullLocationName": "Mahawai-Kalikot-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 65,
+    "VdcID": 635,
+    "FullLocationName": "Chhayanath Rara-Mugu-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 65,
+    "VdcID": 636,
+    "FullLocationName": "Khatyad-Mugu-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 65,
+    "VdcID": 637,
+    "FullLocationName": "Soru-Mugu-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 65,
+    "VdcID": 638,
+    "FullLocationName": "Mugum Karmarong-Mugu-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 66,
+    "VdcID": 639,
+    "FullLocationName": "Birendranagar-Surkhet-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 66,
+    "VdcID": 640,
+    "FullLocationName": "Gurbhakot-Surkhet-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 66,
+    "VdcID": 641,
+    "FullLocationName": "Bheriganga-Surkhet-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 66,
+    "VdcID": 642,
+    "FullLocationName": "Panchapuri-Surkhet-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 66,
+    "VdcID": 643,
+    "FullLocationName": "Lekbeshi-Surkhet-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 66,
+    "VdcID": 644,
+    "FullLocationName": "Barahatal-Surkhet-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 66,
+    "VdcID": 645,
+    "FullLocationName": "Simta-Surkhet-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 66,
+    "VdcID": 646,
+    "FullLocationName": "Chaukune-Surkhet-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 66,
+    "VdcID": 647,
+    "FullLocationName": "Chingad-Surkhet-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 67,
+    "VdcID": 648,
+    "FullLocationName": "Dullu-Dailekh-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 67,
+    "VdcID": 649,
+    "FullLocationName": "Aathabis-Dailekh-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 67,
+    "VdcID": 650,
+    "FullLocationName": "Narayan-Dailekh-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 67,
+    "VdcID": 651,
+    "FullLocationName": "Chamunda Bindrasaini-Dailekh-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 67,
+    "VdcID": 652,
+    "FullLocationName": "Gurans-Dailekh-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 67,
+    "VdcID": 653,
+    "FullLocationName": "Bhairabi-Dailekh-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 67,
+    "VdcID": 654,
+    "FullLocationName": "Naumule-Dailekh-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 67,
+    "VdcID": 655,
+    "FullLocationName": "Mahabu-Dailekh-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 67,
+    "VdcID": 656,
+    "FullLocationName": "Thantikandh-Dailekh-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 67,
+    "VdcID": 657,
+    "FullLocationName": "Bhagawatimai-Dailekh-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 67,
+    "VdcID": 658,
+    "FullLocationName": "Dungeshwar-Dailekh-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 68,
+    "VdcID": 659,
+    "FullLocationName": "Chhedagad-Jajarkot-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 68,
+    "VdcID": 660,
+    "FullLocationName": "Bheri-Jajarkot-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 68,
+    "VdcID": 661,
+    "FullLocationName": "Nalgad-Jajarkot-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 68,
+    "VdcID": 662,
+    "FullLocationName": "Junichande-Jajarkot-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 68,
+    "VdcID": 663,
+    "FullLocationName": "Kuse-Jajarkot-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 68,
+    "VdcID": 664,
+    "FullLocationName": "Barekot-Jajarkot-Karnali"
+  },
+  {
+    "ZoneID": 6,
+    "DistrictID": 68,
+    "VdcID": 665,
+    "FullLocationName": "Shivalaya-Jajarkot-Karnali"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 69,
+    "VdcID": 666,
+    "FullLocationName": "Dhangadhi-Kailali-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 69,
+    "VdcID": 667,
+    "FullLocationName": "Godawari, Seti-Kailali-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 69,
+    "VdcID": 668,
+    "FullLocationName": "Tikapur-Kailali-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 69,
+    "VdcID": 669,
+    "FullLocationName": "Ghodaghodi-Kailali-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 69,
+    "VdcID": 670,
+    "FullLocationName": "Lamki Chuha-Kailali-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 69,
+    "VdcID": 671,
+    "FullLocationName": "Gauriganga-Kailali-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 69,
+    "VdcID": 672,
+    "FullLocationName": "Bhajani-Kailali-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 69,
+    "VdcID": 673,
+    "FullLocationName": "Janaki-Kailali-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 69,
+    "VdcID": 674,
+    "FullLocationName": "Kailari-Kailali-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 69,
+    "VdcID": 675,
+    "FullLocationName": "Joshipur-Kailali-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 69,
+    "VdcID": 676,
+    "FullLocationName": "Bargagoriya-Kailali-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 69,
+    "VdcID": 677,
+    "FullLocationName": "Mohanyal-Kailali-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 69,
+    "VdcID": 678,
+    "FullLocationName": "Chure-Kailali-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 71,
+    "VdcID": 679,
+    "FullLocationName": "Dipayal Silgadhi-Doti-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 71,
+    "VdcID": 680,
+    "FullLocationName": "Shikhar-Doti-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 71,
+    "VdcID": 681,
+    "FullLocationName": "Aadarsha-Doti-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 71,
+    "VdcID": 682,
+    "FullLocationName": "Purbichauki-Doti-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 71,
+    "VdcID": 683,
+    "FullLocationName": "K.I. Singh-Doti-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 71,
+    "VdcID": 684,
+    "FullLocationName": "Jorayal-Doti-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 71,
+    "VdcID": 685,
+    "FullLocationName": "Sayal-Doti-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 71,
+    "VdcID": 686,
+    "FullLocationName": "Bogatan-Fudsil-Doti-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 71,
+    "VdcID": 687,
+    "FullLocationName": "Badikedar-Doti-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 72,
+    "VdcID": 688,
+    "FullLocationName": "Bungal-Bajhang-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 72,
+    "VdcID": 689,
+    "FullLocationName": "Jaya Prithvi-Bajhang-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 72,
+    "VdcID": 690,
+    "FullLocationName": "Kedarsyu-Bajhang-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 72,
+    "VdcID": 691,
+    "FullLocationName": "Thalara-Bajhang-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 72,
+    "VdcID": 692,
+    "FullLocationName": "Bitthadchir-Bajhang-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 72,
+    "VdcID": 693,
+    "FullLocationName": "Chhabis Pathibhera-Bajhang-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 72,
+    "VdcID": 694,
+    "FullLocationName": "Chhanna-Bajhang-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 72,
+    "VdcID": 695,
+    "FullLocationName": "Masta-Bajhang-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 72,
+    "VdcID": 696,
+    "FullLocationName": "Durgathali-Bajhang-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 72,
+    "VdcID": 697,
+    "FullLocationName": "Talkot-Bajhang-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 72,
+    "VdcID": 698,
+    "FullLocationName": "Surma-Bajhang-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 72,
+    "VdcID": 699,
+    "FullLocationName": "Saipal-Bajhang-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 73,
+    "VdcID": 700,
+    "FullLocationName": "Budhiganga-Bajura-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 73,
+    "VdcID": 701,
+    "FullLocationName": "Budhinanda-Bajura-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 73,
+    "VdcID": 702,
+    "FullLocationName": "Tribeni-Bajura-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 73,
+    "VdcID": 703,
+    "FullLocationName": "Badimalika-Bajura-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 73,
+    "VdcID": 704,
+    "FullLocationName": "Khaptad Chhededaha-Bajura-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 73,
+    "VdcID": 705,
+    "FullLocationName": "Swami Kartik Khapar-Bajura-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 73,
+    "VdcID": 706,
+    "FullLocationName": "Jagannath-Bajura-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 73,
+    "VdcID": 707,
+    "FullLocationName": "Himali-Bajura-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 73,
+    "VdcID": 708,
+    "FullLocationName": "Gaumul-Bajura-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 74,
+    "VdcID": 709,
+    "FullLocationName": "Bhimdatta-Kanchanpur-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 74,
+    "VdcID": 710,
+    "FullLocationName": "Krishnapur-Kanchanpur-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 74,
+    "VdcID": 711,
+    "FullLocationName": "Punarbas-Kanchanpur-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 74,
+    "VdcID": 712,
+    "FullLocationName": "Belauri-Kanchanpur-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 74,
+    "VdcID": 713,
+    "FullLocationName": "Bedkot-Kanchanpur-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 74,
+    "VdcID": 714,
+    "FullLocationName": "Shuklaphanta-Kanchanpur-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 74,
+    "VdcID": 715,
+    "FullLocationName": "Mahakali-Kanchanpur-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 74,
+    "VdcID": 716,
+    "FullLocationName": "Laljhadi-Kanchanpur-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 74,
+    "VdcID": 717,
+    "FullLocationName": "Beldandi-Kanchanpur-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 75,
+    "VdcID": 718,
+    "FullLocationName": "Parashuram-Dadeldhura-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 75,
+    "VdcID": 719,
+    "FullLocationName": "Amargadhi-Dadeldhura-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 75,
+    "VdcID": 720,
+    "FullLocationName": "Navadurga-Dadeldhura-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 75,
+    "VdcID": 721,
+    "FullLocationName": "Aalitaal-Dadeldhura-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 75,
+    "VdcID": 722,
+    "FullLocationName": "Ganyapadhura-Dadeldhura-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 75,
+    "VdcID": 723,
+    "FullLocationName": "Bhageshwar-Dadeldhura-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 75,
+    "VdcID": 724,
+    "FullLocationName": "Ajaymeru-Dadeldhura-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 76,
+    "VdcID": 725,
+    "FullLocationName": "Purchaundi-Baitadi-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 76,
+    "VdcID": 726,
+    "FullLocationName": "Dasharathchand-Baitadi-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 76,
+    "VdcID": 727,
+    "FullLocationName": "Patan-Baitadi-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 76,
+    "VdcID": 728,
+    "FullLocationName": "Melauli-Baitadi-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 76,
+    "VdcID": 729,
+    "FullLocationName": "Dogdakedar-Baitadi-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 76,
+    "VdcID": 730,
+    "FullLocationName": "Dilashaini-Baitadi-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 76,
+    "VdcID": 731,
+    "FullLocationName": "Sigas-Baitadi-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 76,
+    "VdcID": 732,
+    "FullLocationName": "Pancheshwar-Baitadi-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 76,
+    "VdcID": 733,
+    "FullLocationName": "Surnaya-Baitadi-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 76,
+    "VdcID": 734,
+    "FullLocationName": "Shivanath-Baitadi-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 77,
+    "VdcID": 735,
+    "FullLocationName": "Shailyashikhar-Darchula-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 77,
+    "VdcID": 736,
+    "FullLocationName": "Mahakali-Darchula-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 77,
+    "VdcID": 737,
+    "FullLocationName": "Naugad-Darchula-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 77,
+    "VdcID": 738,
+    "FullLocationName": "Malikarjun-Darchula-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 77,
+    "VdcID": 739,
+    "FullLocationName": "Marma-Darchula-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 77,
+    "VdcID": 740,
+    "FullLocationName": "Lekam-Darchula-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 77,
+    "VdcID": 741,
+    "FullLocationName": "Duhu-Darchula-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 77,
+    "VdcID": 742,
+    "FullLocationName": "Vyans-Darchula-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 77,
+    "VdcID": 743,
+    "FullLocationName": "Api Himal-Darchula-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 70,
+    "VdcID": 744,
+    "FullLocationName": "Sanphebagar-Achham-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 70,
+    "VdcID": 745,
+    "FullLocationName": "Mangalsen-Achham-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 70,
+    "VdcID": 746,
+    "FullLocationName": "Panchadewal Binayak-Achham-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 70,
+    "VdcID": 747,
+    "FullLocationName": "Kamalbazar-Achham-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 70,
+    "VdcID": 748,
+    "FullLocationName": "Ramaroshan-Achham-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 70,
+    "VdcID": 749,
+    "FullLocationName": "Chaurpati-Achham-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 70,
+    "VdcID": 750,
+    "FullLocationName": "Turmakhand-Achham-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 70,
+    "VdcID": 751,
+    "FullLocationName": "Mellekh-Achham-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 70,
+    "VdcID": 752,
+    "FullLocationName": "Dhankari-Achham-Sudurpashchim"
+  },
+  {
+    "ZoneID": 7,
+    "DistrictID": 70,
+    "VdcID": 753,
+    "FullLocationName": "Bannigadi Jayagad-Achham-Sudurpashchim"
+  },
+  {
+    "ZoneID": 10,
+    "DistrictID": 101,
+    "VdcID": 1001,
+    "FullLocationName": "Jogbani-Arariya-India"
+  },
+  {
+    "ZoneID": 10,
+    "DistrictID": 101,
+    "VdcID": 1002,
+    "FullLocationName": "Arariya-Arariya-India"
+  },
+  {
+    "ZoneID": 10,
+    "DistrictID": 101,
+    "VdcID": 1003,
+    "FullLocationName": "Indranagar-Arariya-India"
+  },
+  {
+    "ZoneID": 10,
+    "DistrictID": 101,
+    "VdcID": 1004,
+    "FullLocationName": "Forbisganj-Arariya-India"
+  },
+  {
+    "ZoneID": 10,
+    "DistrictID": 102,
+    "VdcID": 1005,
+    "FullLocationName": "Purniya-Purniya-India"
+  },
+  {
+    "ZoneID": 10,
+    "DistrictID": 102,
+    "VdcID": 1006,
+    "FullLocationName": "Kashuwa-Purniya-India"
+  },
+  {
+    "ZoneID": 10,
+    "DistrictID": 102,
+    "VdcID": 1007,
+    "FullLocationName": "Bawanipur-Purniya-India"
+  },
+  {
+    "ZoneID": 10,
+    "DistrictID": 103,
+    "VdcID": 1008,
+    "FullLocationName": "Thakurganj-Kishanganj-India"
+  },
+  {
+    "ZoneID": 10,
+    "DistrictID": 103,
+    "VdcID": 1009,
+    "FullLocationName": "Bahadurganj-Kishanganj-India"
+  },
+  {
+    "ZoneID": 10,
+    "DistrictID": 104,
+    "VdcID": 1010,
+    "FullLocationName": "Maharajgunj-Madhubani-India"
+  },
+  {
+    "ZoneID": 10,
+    "DistrictID": 104,
+    "VdcID": 1011,
+    "FullLocationName": "Madhubani-Madhubani-India"
+  }
+]

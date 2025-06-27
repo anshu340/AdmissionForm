@@ -1,0 +1,632 @@
+[
+  {
+    "OrgnID": "1F3244D4-3389-4928-8D6A-17E2EBDF0CBC",
+    "OrgnName": "Adarsha College Pvt. Ltd.",
+    "Address": "Itahari, Sunsari",
+    "Email": "adarshacollegeitahari@gmail.com",
+    "PhoneNo": "9842369534",
+    "AppName": "AdarshaCollege",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/adarshacollege.png"
+  },
+  {
+    "OrgnID": "9E04A579-2791-48C9-A7DD-1D6A92A90679",
+    "OrgnName": "Moonal Academy Jhapa Pvt. Ltd.",
+    "Address": "Bhadrapur-5",
+    "Email": "moonalacademy2051@gmail.com",
+    "PhoneNo": "9803762481",
+    "AppName": "MoonalAcademy",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/moonalacademy.png"
+  },
+  {
+    "OrgnID": "C5DFEAB3-85B1-4442-A072-1DF97DCDA42E",
+    "OrgnName": "Saptakoshi Sub Urban Morang Pvt. Ltd.",
+    "Address": "Urlabari, Morang",
+    "Email": "sapurl234@gmail.com",
+    "PhoneNo": "9852044770",
+    "AppName": "Saptakoshi",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/saptakoshi.png"
+  },
+  {
+    "OrgnID": "97CFD0BD-D793-431C-994C-22D309AA7CC7",
+    "OrgnName": "Mahendra Ratna Secondary School",
+    "Address": "Birtamode",
+    "Email": "kprasain@gmail.com",
+    "PhoneNo": "9842698858",
+    "AppName": "MahendraRatna",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/mahendraratna.png"
+  },
+  {
+    "OrgnID": "A7FA4B84-7E0D-4CED-B3FB-360364548EA1",
+    "OrgnName": "Brilliant Education Foundation Pvt. Ltd.",
+    "Address": "Arjundhara 6, jhapa",
+    "Email": "bps057@gmail.com",
+    "PhoneNo": "9817057590",
+    "AppName": "Brilliant",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/Brilliant.png"
+  },
+  {
+    "OrgnID": "6B8D541B-59E6-4235-97BE-38B702F45F4B",
+    "OrgnName": "Radient Tower Temple Education Foundation Jhapa Pvt. Ltd.",
+    "Address": "Birtamode-5, Jhapa",
+    "Email": "towertemple541254@gmail.com",
+    "PhoneNo": "023541254",
+    "AppName": "RadientTowerTemple",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/radienttowertemple.png"
+  },
+  {
+    "OrgnID": "595102CD-DF79-4A93-AE8B-3A34ABAE4BE7",
+    "OrgnName": "Bal Kalyan Vidya Mandir Pvt. Ltd.",
+    "Address": "Biratnagar",
+    "Email": "bkvmbrt@gmail.com",
+    "PhoneNo": "021474295",
+    "AppName": "Bkvm",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/bkvm.png"
+  },
+  {
+    "OrgnID": "4A1310DF-8D2A-48AD-826B-41A31864D521",
+    "OrgnName": "Scoms Dev New Test",
+    "Address": "Birtamod",
+    "Email": "tapansharma91@gmail.com",
+    "PhoneNo": "021591290",
+    "AppName": "School",
+    "LogoUrl": ""
+  },
+  {
+    "OrgnID": "7E739306-C838-4FA2-B725-42AACC5B3B00",
+    "OrgnName": "Samskara Sikshya Sadan Pvt. Ltd.",
+    "Address": "Haldibari - 1, Goldhap, Jhapa",
+    "Email": "studyatsamskara@gmail.com",
+    "PhoneNo": "9852674732",
+    "AppName": "SamskaraSikshyaSadan",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/samskarasikshyasadan.png"
+  },
+  {
+    "OrgnID": "D2A6A182-4A56-4E2D-80EB-432977D8BA5F",
+    "OrgnName": "Happyland Education Foundation Pvt. Ltd.",
+    "Address": "Rajbiraj, Saptari",
+    "Email": "happyland2036@gmail.com",
+    "PhoneNo": "9807758404",
+    "AppName": "Happyland",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/happyland.png"
+  },
+  {
+    "OrgnID": "C9E422B5-67C1-46CE-9A5B-43A1A130D20E",
+    "OrgnName": "Kids Village School Biratnagar Marang Pvt. Ltd.",
+    "Address": "Biratnagar",
+    "Email": "pkjain98420@gmail.com",
+    "PhoneNo": "9842032431",
+    "AppName": "KidsVillage",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/kidsvillage.png"
+  },
+  {
+    "OrgnID": "FB9D1F5C-B1B1-4D93-AA88-477559D65C7D",
+    "OrgnName": "Anamika Greenfield Education Jhapa Pvt. Ltd.",
+    "Address": "Bhadrapur",
+    "Email": "greenfield2056@gmail.com",
+    "PhoneNo": "9817970450",
+    "AppName": "GreenField",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/greenfield.png"
+  },
+  {
+    "OrgnID": "CBCAE235-BB75-4D28-B7BB-4983B40DC021",
+    "OrgnName": "Siddhartha Educational Foundation Pvt. Ltd.",
+    "Address": "Sundar-Haraincha-10, Morang",
+    "Email": "siddharthass51@gmail.com",
+    "PhoneNo": "9852054850",
+    "AppName": "SiddharthaSchool",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/sssindrapur.png"
+  },
+  {
+    "OrgnID": "558831C5-79CF-497D-96BC-4CB60C832849",
+    "OrgnName": "Jasoda English Boarding School Pvt. Ltd.",
+    "Address": "Haldibari-2, Jhapa",
+    "Email": "jasodaboarding2021@gmail.com",
+    "PhoneNo": "9815927944",
+    "AppName": "JasodaSchool",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/jasodaschool.png"
+  },
+  {
+    "OrgnID": "C68FF219-9050-4945-A0C6-517848A42480",
+    "OrgnName": "Sun Beam English School Sunsari Pvt. Ltd.",
+    "Address": "Duhabi 8 (Sonapur), Sunsari",
+    "Email": "sunbeamsonapur@gmail.com",
+    "PhoneNo": "9852057162",
+    "AppName": "SunBeam",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/sunbeam.png"
+  },
+  {
+    "OrgnID": "BB145CF5-B700-48A5-AEB7-533041AE1CCB",
+    "OrgnName": "Pole Star National English Boarding School Morang Pvt. Ltd.",
+    "Address": "Biratnagar, Morang",
+    "Email": "devendrabkti@gmail.com",
+    "PhoneNo": "9842033637",
+    "AppName": "PoleStar",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/polestar.png"
+  },
+  {
+    "OrgnID": "A336CF8E-8EDB-4AC5-A85B-5C0F87B77A95",
+    "OrgnName": "Sagarmatha Academy Morang Pvt. Ltd.",
+    "Address": "Biratnagar-11, Morang",
+    "Email": "psoonil8@gmail.com",
+    "PhoneNo": "9842029329",
+    "AppName": "Sagarmatha",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/sagarmatha.png"
+  },
+  {
+    "OrgnID": "149A9C3E-1E6F-43F6-BB64-5CAAA450ACA9",
+    "OrgnName": "Pragyan Academy Pvt. Ltd.",
+    "Address": "Bhadrapur,Jhapa",
+    "Email": "pragyanacademy49@gmail.com",
+    "PhoneNo": "9852677555",
+    "AppName": "PragyanAcademy",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/pragyan.png"
+  },
+  {
+    "OrgnID": "13E275AA-ADD3-4F48-9C8C-5CCC75075AB7",
+    "OrgnName": "Himalaya English Boarding School Jhapa Pvt. Ltd.",
+    "Address": "Bhadrapur-7 Jhapa",
+    "Email": "surajsarma073@gmail.com",
+    "PhoneNo": "9852655096",
+    "AppName": "Himalaya",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/himalaya.png"
+  },
+  {
+    "OrgnID": "20524155-30CF-4830-9581-61CE5E8212D9",
+    "OrgnName": "Balmeeki Memorial Boarding High School Pvt. Ltd.",
+    "Address": "Patharishanishchare-2",
+    "Email": "balmeekischool555575@gmail.com",
+    "PhoneNo": "9802765503",
+    "AppName": "BalmeekiMemorial",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/balmeekimemorial.png"
+  },
+  {
+    "OrgnID": "E9F7F145-61B9-4B45-8A22-66AED4A649D6",
+    "OrgnName": "Vishwa Adarsha Academy Pvt. Ltd.",
+    "Address": "Itahari, Sunsari",
+    "Email": "khagendra@vac.edu.np",
+    "PhoneNo": "9842369534",
+    "AppName": "VishwaAdarsha",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/vishwaadarsha.png"
+  },
+  {
+    "OrgnID": "99BA23C5-4CED-4449-9066-6F370737AFD9",
+    "OrgnName": "Dipjan English Boarding School Pvt. Ltd.",
+    "Address": "Bahradarshi-6, Jhapa",
+    "Email": "dipjan.school@gmail.com",
+    "PhoneNo": "9804900494",
+    "AppName": "Dipjan",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/dipjan.png"
+  },
+  {
+    "OrgnID": "5B651593-B595-40B9-B462-738F38D3DFDE",
+    "OrgnName": "Mahendra Memorial Academy Sunsari Pvt. Ltd.",
+    "Address": "Duhabi, Sunsari",
+    "Email": "mahendramemorial@gmail.com",
+    "PhoneNo": "9852057200",
+    "AppName": "Mahendra",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/mahendra.png"
+  },
+  {
+    "OrgnID": "B28A248B-0CC1-4CB6-AE91-7459E7B46471",
+    "OrgnName": "Janak Niketan Pvt. Ltd.",
+    "Address": "Himali, Prithvinagar",
+    "Email": "janakniketan335@gmail.com",
+    "PhoneNo": "9823146086",
+    "AppName": "JanakNiketan",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/janakniketan.png"
+  },
+  {
+    "OrgnID": "9958147D-ED03-42BA-946C-754929DBE682",
+    "OrgnName": "Modern English High School Pvt. Ltd.",
+    "Address": "Bhadrapur-5",
+    "Email": "mehs2051@gmail.com",
+    "PhoneNo": "9852674611",
+    "AppName": "ModernSchool",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/modernschool.png"
+  },
+  {
+    "OrgnID": "05258CFC-9BD1-4E3B-AAA2-79C48C18EDFF",
+    "OrgnName": "Shree Gomendra Educational Foundation Pvt. Ltd.",
+    "Address": "Birtomode",
+    "Email": "gmcollege892@gmail.com",
+    "PhoneNo": "9862697755",
+    "AppName": "Gomendra",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/gomendra.png"
+  },
+  {
+    "OrgnID": "6F66F530-7737-47FE-9394-8041052329E7",
+    "OrgnName": "Kachan Kawal Bidhya Mandir Pvt. Ltd.",
+    "Address": "Kachankawal",
+    "Email": "kachankawal@gmail.com",
+    "PhoneNo": "9816076111",
+    "AppName": "KanchanKawal",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/kanchankawal.png"
+  },
+  {
+    "OrgnID": "728656F7-EC8C-4089-8AF1-824BABEAB669",
+    "OrgnName": "Namuna Bidhya Mandir Morang Pvt. Ltd.",
+    "Address": "Biratnagar",
+    "Email": "namuna2050@gmail.com",
+    "PhoneNo": "9852032620",
+    "AppName": "NamunaVidyaMandir",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/namunavidyamandir.png"
+  },
+  {
+    "OrgnID": "98EEAA73-5D6E-401A-AE35-88588551812A",
+    "OrgnName": "Karnali Education Foundation Pvt. Ltd.",
+    "Address": "Budhabare, Jhapa",
+    "Email": "hamrokarnali99@gmail.com",
+    "PhoneNo": "9842641838",
+    "AppName": "Karnali",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/karnali.png"
+  },
+  {
+    "OrgnID": "D84BB33C-AA4C-4BB8-967C-88784890E8BE",
+    "OrgnName": "Jeevan Bikas Samaj Saikshik Guthi",
+    "Address": "Kadmaha-6, Morang",
+    "Email": "jbps@jeevanbikas.org.np",
+    "PhoneNo": "9802796118",
+    "AppName": "JeevanBikas",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/jeevanbikas.png"
+  },
+  {
+    "OrgnID": "DBF6B5AF-2435-4E66-89C9-8B750BCE8D7C",
+    "OrgnName": "Koshi Vidhya Mandir Morang Pvt. Ltd.",
+    "Address": "",
+    "Email": "",
+    "PhoneNo": "",
+    "AppName": "KoshiVidhyaMandir",
+    "LogoUrl": ""
+  },
+  {
+    "OrgnID": "04E9CDB8-1257-4FC1-95B6-8C25D8645FAC",
+    "OrgnName": "Matribhumi Angreji Boarding School Pvt. Ltd.",
+    "Address": "Hile, Dhankuta",
+    "Email": "subbaprem733@gmail.com",
+    "PhoneNo": "9852050535",
+    "AppName": "Matribhumi",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/matribhumi.png"
+  },
+  {
+    "OrgnID": "5CC2BF24-A3E7-43D8-9DA9-9463D3FD4EAA",
+    "OrgnName": "Everest Smart Education Foundation Pvt. Ltd.",
+    "Address": "Birtamode, Jhapa, Nepal",
+    "Email": "ashishprasai90@gmail.com",
+    "PhoneNo": "9810044357",
+    "AppName": "EverestSmart",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/everestsmart.png"
+  },
+  {
+    "OrgnID": "32B3EA8F-72A3-4A5D-A58F-94719F7067BA",
+    "OrgnName": "International Emerald Academy  Pvt. Ltd.",
+    "Address": "Bhadrapur-8",
+    "Email": "prithbirai7@gmail.com",
+    "PhoneNo": "023520428",
+    "AppName": "Emerald",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/Emerald.png"
+  },
+  {
+    "OrgnID": "97D0B492-83D9-4020-AF12-94D1ACE2A0C9",
+    "OrgnName": "Holyland International School Pvt. Ltd.",
+    "Address": "Dharan",
+    "Email": "holylandedu@gmail.com",
+    "PhoneNo": "9842052844",
+    "AppName": "HolylandDharan",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/holylanddharan.png"
+  },
+  {
+    "OrgnID": "BCBE9E75-20AB-4E56-8AF7-96075F7DC28C",
+    "OrgnName": "Pashupati Aawasiya Madhyamic Vidhyalaya Pvt. Ltd.",
+    "Address": "Urlabari",
+    "Email": "pbss.school@gmail.com",
+    "PhoneNo": "9842196789",
+    "AppName": "Pashupati",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/pashupati.png"
+  },
+  {
+    "OrgnID": "276EB98B-89B9-4E7C-8338-967BD3CA264F",
+    "OrgnName": "Holyland English School Pvt. Ltd.",
+    "Address": "Bhadrapur-2 Jhapa",
+    "Email": "lalitaraihles77@gmail.com",
+    "PhoneNo": "9814942019",
+    "AppName": "HolylandBhadrapur",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/holylandbhadrapur.png"
+  },
+  {
+    "OrgnID": "8679858C-2583-4A6C-8C0D-9794C18F2355",
+    "OrgnName": "Holyland Boarding School Morang Pvt. Ltd.",
+    "Address": "Biratnagar",
+    "Email": "holylandbiratnagar@gmail.com",
+    "PhoneNo": "9852026396",
+    "AppName": "HolylandBiratnagar",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/holylandbiratnagar.png"
+  },
+  {
+    "OrgnID": "1BDB8B47-16A6-458A-B8B2-981C90F587F7",
+    "OrgnName": "Shree Balabhadra Janta Secondary School",
+    "Address": "Mechinagar - 11, Dhaijan, Jhapa",
+    "Email": "bjantamav@gmail.com",
+    "PhoneNo": "9862641706",
+    "AppName": "BalabhadraJanta",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/balabhadrajanta.png"
+  },
+  {
+    "OrgnID": "77A4C93F-2E56-46D0-B106-9891F2C88144",
+    "OrgnName": "Golden Sunrise Angreji School Pvt. Ltd. ",
+    "Address": "Gauradaha Municipality-01",
+    "Email": "goldensunriseenglishschool@gmail.com",
+    "PhoneNo": "9852630203",
+    "AppName": "GoldenSunrise",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/goldensunrise.png"
+  },
+  {
+    "OrgnID": "A4C304AD-45D6-4396-A564-9B21DBE903BA",
+    "OrgnName": "ScomsERP",
+    "Address": "Biratnagar",
+    "Email": "dgartaula@gmail.com",
+    "PhoneNo": "021591290",
+    "AppName": "Scoms",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/scoms.png"
+  },
+  {
+    "OrgnID": "21D7E83A-564A-4F51-8205-9B4BE2A94DFF",
+    "OrgnName": "Munal Adarsha Vidya Sadan Morang Pvt. Ltd.",
+    "Address": "Ratuwamai-6, Munal Path",
+    "Email": "munalskul@gmail.com",
+    "PhoneNo": "9842085898",
+    "AppName": "MunalAdarsha",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/munaladarsha.png"
+  },
+  {
+    "OrgnID": "A44A8F79-B68E-450A-A3B0-9D3588DA1E5E",
+    "OrgnName": "Budhanilakantha & Company Pvt. Ltd.",
+    "Address": "Biratnagar",
+    "Email": "budhanilakantha@gmail.com",
+    "PhoneNo": "9852032974",
+    "AppName": "Budhanilakantha",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/budhanilkantha.png"
+  },
+  {
+    "OrgnID": "E3E439A3-AB0D-46F0-8C58-A64FF56EA047",
+    "OrgnName": "Kanchanjunga Angregi High School Pvt. Ltd.",
+    "Address": "Birtamod 4, Kanchanjunga Tole, Jhapa",
+    "Email": "kanchanjunga1.school@gmail.com",
+    "PhoneNo": "023542287",
+    "AppName": "Kanchanjunga",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/kanchanjunga.png"
+  },
+  {
+    "OrgnID": "88A7D7B7-C15F-42AD-81E9-AB527D3D9E35",
+    "OrgnName": "Mount Everest Madhyamik Bidhyalaya Jhapa Pvt. Ltd.",
+    "Address": "Gauradaha-01, Jhapa",
+    "Email": "meess2038@gmail.com",
+    "PhoneNo": "9842620512",
+    "AppName": "MountEverest",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/mounteverest.png"
+  },
+  {
+    "OrgnID": "6B6E2E0F-F6B7-469A-945F-AFBA3708DD60",
+    "OrgnName": "Almighty Pashupati Education Foundation Pvt. Ltd.",
+    "Address": "Kankai-3, Jhapa",
+    "Email": "spess2039@gmail.com",
+    "PhoneNo": "9705605666",
+    "AppName": "AlmighlyPashupati",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/almighlypashupati.png"
+  },
+  {
+    "OrgnID": "B6D883BF-F0A5-4224-B711-B699C9EFF068",
+    "OrgnName": "Nidi Uchcha Shiksha Niketan Pvt. Ltd.",
+    "Address": "Birtamode",
+    "Email": "ranjitkshah1111@gmail.com",
+    "PhoneNo": "9852673088",
+    "AppName": "Nidi",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/nidi.png"
+  },
+  {
+    "OrgnID": "C2719AE2-5814-4942-8C95-B7F72849D685",
+    "OrgnName": "Eden Garden Education Foundation Pvt. Ltd.",
+    "Address": "Birtamod-7, Jhapa",
+    "Email": "acharyamahip01@gmail.com",
+    "PhoneNo": "9842032766",
+    "AppName": "EdenGarden",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/edengarden.png"
+  },
+  {
+    "OrgnID": "F16E8690-1160-41C6-B611-BC3E4ADBC9F4",
+    "OrgnName": "Xavier's English Morang Pvt. Ltd.",
+    "Address": "Budhiganga-2, Morang",
+    "Email": "pareshpokharel@gmail.com",
+    "PhoneNo": "9852031502",
+    "AppName": "Xavier",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/xavier.jpg"
+  },
+  {
+    "OrgnID": "81ACF9C6-9311-4E22-B3DA-BD9311E6E29C",
+    "OrgnName": "Aadarsha Namuna English Boarding School Jhapa P. Ltd.",
+    "Address": "Bhadrapur, Jhapa",
+    "Email": "dillidulal2080@gmail.com",
+    "PhoneNo": "9842638681",
+    "AppName": "AadarshaNamuna ",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/aadarshanamuna.png"
+  },
+  {
+    "OrgnID": "5484CC95-BA47-444E-ABC8-C14917A2F70A",
+    "OrgnName": "Orchid Public School Pvt. Ltd.",
+    "Address": "Biratnagar",
+    "Email": "orchidpublicschoolbrt10@gmail.com",
+    "PhoneNo": "9842146241",
+    "AppName": "OrchidPublicSchool",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/orchidpublicschool.png"
+  },
+  {
+    "OrgnID": "01BE6F3D-778C-4C7F-8ECD-C45FD1453CDA",
+    "OrgnName": "Godawari Academic Foundation Morang Pvt. Ltd.",
+    "Address": "Biratnagar-6, Morang",
+    "Email": "bhagwannit@gmail.com",
+    "PhoneNo": "9852028403",
+    "AppName": "GodawariAcademic",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/godawariacademic.png"
+  },
+  {
+    "OrgnID": "E7EB1D5D-96C5-4D66-83E7-C751138FF7E6",
+    "OrgnName": "Millennium Siddhartha Education Foundation Pvt. Ltd.",
+    "Address": "Damak",
+    "Email": "msiddharthaedu@gmail.com",
+    "PhoneNo": "9851036069",
+    "AppName": "MillenniumSiddhartha",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/ssdamak.png"
+  },
+  {
+    "OrgnID": "7C588AA1-1462-4E2B-8425-C829A018787A",
+    "OrgnName": "Eden National Boarding School Morang Pvt. Ltd.",
+    "Address": "Biratnagar",
+    "Email": "edennational03@gmail.com",
+    "PhoneNo": "9705631221",
+    "AppName": "EdenNational",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/edennational.png"
+  },
+  {
+    "OrgnID": "3579443C-4133-47D4-90D8-CCBCD09A1B08",
+    "OrgnName": "Durga Shiksha Pratisthan Jhapa Pvt. Ltd.",
+    "Address": "Mechinagar-2, Jhapa",
+    "Email": "bhojbdrkarki34@gmail.com",
+    "PhoneNo": "9817063939",
+    "AppName": "DurgaShikshaPratisthan",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/durgashikshapratisthan.png"
+  },
+  {
+    "OrgnID": "C8338F9A-BE07-4FC4-9E90-D3178A838932",
+    "OrgnName": "Buddha Smriti Education Foundation Jhapa Pvt. Ltd.",
+    "Address": "Birtamode",
+    "Email": "buddhasmriti1@gmail.com",
+    "PhoneNo": "023590153",
+    "AppName": "BuddhaSmriti",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/buddhasmriti.png"
+  },
+  {
+    "OrgnID": "2718B198-9A69-4402-B9DF-D6DC085DB541",
+    "OrgnName": "East Point English School Pvt. Ltd. ",
+    "Address": "Bhadrapur-6",
+    "Email": "eastpointenglishschool@gmail.com",
+    "PhoneNo": "9852671150",
+    "AppName": "EastPoint",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/eastpoint.png"
+  },
+  {
+    "OrgnID": "B61B3B54-DE8D-4A71-AC19-DAC3DA372BF2",
+    "OrgnName": "Siddhartha Shishu Sadan Pvt. Ltd.",
+    "Address": "Bhadrapur-5",
+    "Email": "prabeshbhandari73@gmail.com",
+    "PhoneNo": "9863449727",
+    "AppName": "SiddharthaBhadraPur",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/siddharthabhadrapur.png"
+  },
+  {
+    "OrgnID": "73C4BC7B-7BE5-4624-AF54-DB892D44C640",
+    "OrgnName": "Sahara Sakoss Shikshya Sadan",
+    "Address": "Birtamode 2, Charpane, Jhapa",
+    "Email": "saharasaccosshikshyasadan@gmail.com",
+    "PhoneNo": "9801920522",
+    "AppName": "SaharaSaccos",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/saharasaccos.png"
+  },
+  {
+    "OrgnID": "38322B1D-1F28-4350-B118-E106499098D7",
+    "OrgnName": "Bright Beginning Academy Pvt. Ltd.",
+    "Address": "Anarmani",
+    "Email": "khemrajoli34@gmail.com",
+    "PhoneNo": "9842625692",
+    "AppName": "BrightBeginning",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/brightbeginning.png"
+  },
+  {
+    "OrgnID": "54C7BAC8-BDDE-4770-A5CB-E1C91237BD75",
+    "OrgnName": "New Hope English Boarding School Pvt. Ltd.",
+    "Address": "Arjundhara-03, Jhapa",
+    "Email": "newhopeebss2053@gmail.com",
+    "PhoneNo": "9852677620",
+    "AppName": "NewHope",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/newhope.png"
+  },
+  {
+    "OrgnID": "1D23A499-5298-426F-8786-E6178F6B9C8C",
+    "OrgnName": "Mother Teresa Memorial English Boarding School Pvt. Ltd.",
+    "Address": "Biratnagar",
+    "Email": "mtmebs2056@gmail.com",
+    "PhoneNo": "9852021484",
+    "AppName": "MotherTeresa",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/motherteresa.png"
+  },
+  {
+    "OrgnID": "6F25FD89-E3E9-4759-BE27-E6A9D150265C",
+    "OrgnName": "Golden Future Education Foundation Jhapa Pvt. Ltd.",
+    "Address": "Kachan Mawal-6, Jhapa",
+    "Email": "yubrajkafle46@gmail.com",
+    "PhoneNo": "9815966439",
+    "AppName": "GoldenFuture",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/goldenfuture.png"
+  },
+  {
+    "OrgnID": "61553A69-4265-4188-87A8-E812981602F2",
+    "OrgnName": "Siddhartha Shishu Sadan Morang Pvt. Ltd.",
+    "Address": "Biratnagar-5",
+    "Email": "siddhartha2033@gmail.com",
+    "PhoneNo": "021502225",
+    "AppName": "SiddharthaShishuSadan",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/siddhartha.png"
+  },
+  {
+    "OrgnID": "2E0BF713-2F0F-41C7-9DDC-E836CA959916",
+    "OrgnName": "Arpan English School Pvt. Ltd.",
+    "Address": "Biratanagr",
+    "Email": "arpanenglishschool@gmail.com",
+    "PhoneNo": "9852027840",
+    "AppName": "Arpan",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/arpan.png"
+  },
+  {
+    "OrgnID": "6D093D8D-F623-44DA-816D-ECF0C0E419A1",
+    "OrgnName": "Merryland College of Management Pvt. Ltd.",
+    "Address": "Biratnagar",
+    "Email": "merrylandbrt@gmail.com",
+    "PhoneNo": "9842101217",
+    "AppName": "MerrylandCollege",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/merrylandcollege.png"
+  },
+  {
+    "OrgnID": "13313C33-542A-4BEA-943A-EDBDBC3F7BAC",
+    "OrgnName": "Newton's Education Foundation Pvt. Ltd.",
+    "Address": "Birtamode-5",
+    "Email": "newtonschool102@gmail.com",
+    "PhoneNo": "023540196",
+    "AppName": "Newton",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/newton.png"
+  },
+  {
+    "OrgnID": "BAB75DC7-32B2-4444-AD1D-F178EFFDFA2F",
+    "OrgnName": "Dvm Global Academy Pvt. Ltd.",
+    "Address": "Itahari, Sunsari",
+    "Email": "subba4395@gmail.com",
+    "PhoneNo": "9862310426",
+    "AppName": "DvmGlobalAcademy",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/dvm.png"
+  },
+  {
+    "OrgnID": "414C486D-9D9E-4E5B-AF9E-F5CB901AD43A",
+    "OrgnName": "Bright Vision Law College Pvt. Ltd.",
+    "Address": "Biratnagar, Morang",
+    "Email": "adm.bvlc@gmail.com",
+    "PhoneNo": "9852028158",
+    "AppName": "BrightVision",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/BrightVision.jpg"
+  },
+  {
+    "OrgnID": "A94401DD-08CF-463B-858B-FAEEDD619FF2",
+    "OrgnName": "Birat National School",
+    "Address": "Biratnagar-11",
+    "Email": "aarifa965@gmail.com",
+    "PhoneNo": "9816387492",
+    "AppName": "BiratNational",
+    "LogoUrl": "https://neapes.s3.ap-south-1.amazonaws.com/Logos/biratnational.png"
+  }
+]

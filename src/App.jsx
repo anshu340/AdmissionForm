@@ -1,18 +1,16 @@
-import Admission from "./Admission"
-import { BrowserRouter, Routes, Route } from "react-router-dom"
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import Admission from './Admission';
+import ThankYou from './Thankyou';
 
 function App() {
-
-
   return (
-    <>
-      <BrowserRouter>
+    <BrowserRouter>
       <Routes>
-        <Route path="/form" element={<Admission/>}/>
+        <Route path="/admission" element={<Admission />} />
+        <Route path="/thank-you" element={<ThankYou />} />
       </Routes>
-      </BrowserRouter>
-    </>
-  )
+    </BrowserRouter>
+  );
 }
 
-export default App
+export default App;
