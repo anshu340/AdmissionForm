@@ -1,4 +1,4 @@
-import Admission from "./assets/Admission"
+import Admission from "./Admission"
 import { BrowserRouter, Routes, Route } from "react-router-dom"
 
 function App() {
